@@ -1,301 +1,301 @@
-provider_id,provider_name,city,state,latitude,longitude,services,capacity,active_jobs,utilization_pct,rating,average_response_hours,agreement_status
-P0001,Blue River Drainage Group,Evansville,IN,38.056921,-87.903895,Pipe Lining,7,6,85.7,4.6,1,Active
-P0002,Blue River Environmental,Chicago,IL,41.51349,-87.588891,Catch Basin Repair,20,10,50.0,4.2,10,Active
-P0003,Great Lakes Restoration,Cincinnati,OH,39.349331,-84.263107,Emergency Callout | Pond Maintenance,12,6,50.0,4.7,25,Expiring Soon
-P0004,Great Lakes Waterworks,Terre Haute,IN,39.226098,-87.2959,CCTV Inspection | Pipe Lining,14,4,28.6,4.6,19,Active
-P0005,Midwest Contracting,Evansville,IN,37.919839,-87.788997,Erosion Control | Vactor / Jet Vac,18,13,72.2,4.1,15,Active
-P0006,Heartland Restoration,Lexington,KY,37.942003,-84.333361,Erosion Control,22,13,59.1,4.4,24,Expiring Soon
-P0007,Red Oak Site Solutions,Fort Wayne,IN,41.678961,-85.269453,CCTV Inspection | Emergency Callout | Stormwater Inspection,7,2,28.6,3.8,26,Active
-P0008,Summit Contracting,Louisville,KY,38.568812,-85.794963,Erosion Control | Pond Maintenance,24,10,41.7,3.8,27,Active
-P0009,Ironwood Site Solutions,Terre Haute,IN,39.674811,-87.240091,Stormwater Inspection,12,4,33.3,4.3,21,Active
-P0010,Crossroads Environmental,Cleveland,OH,41.560533,-81.415543,Vactor / Jet Vac,14,8,57.1,4.5,20,Active
-P0011,Keystone Municipal Services,Cincinnati,OH,39.184053,-84.309988,CCTV Inspection | Emergency Callout | Erosion Control,19,6,31.6,4.1,14,Pending
-P0012,Summit Drainage Group,Peoria,IL,40.514714,-89.677046,Pond Maintenance,22,16,72.7,3.8,30,Pending
-P0013,Midwest Site Solutions,Lexington,KY,37.569396,-84.610863,Catch Basin Repair | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,5,3,60.0,4.5,27,Active
-P0014,Prairie Waterworks,Terre Haute,IN,39.688837,-87.525492,Catch Basin Repair | Stormwater Inspection,23,11,47.8,4.6,17,Active
-P0015,Crossroads Environmental 15,Grand Rapids,MI,42.606208,-86.030752,CCTV Inspection | Erosion Control,21,8,38.1,4.4,21,Expiring Soon
-P0016,Heartland Drainage Group,Cleveland,OH,41.692636,-81.831121,Emergency Callout | Vactor / Jet Vac,12,7,58.3,4.5,16,Expiring Soon
-P0017,Keystone Infrastructure,Detroit,MI,42.459297,-83.257616,Erosion Control | Pond Maintenance | Stormwater Inspection,20,9,45.0,4.0,6,Active
-P0018,Prairie Utility Services,Louisville,KY,38.389052,-85.908709,Pond Maintenance | Vactor / Jet Vac,14,7,50.0,4.4,24,Active
-P0019,Keystone Drainage Group,Louisville,KY,38.439008,-85.790015,Catch Basin Repair,22,10,45.5,4.2,1,Active
-P0020,Crossroads Infrastructure,Springfield,IL,39.376509,-90.073364,CCTV Inspection | Catch Basin Repair | Erosion Control | Pipe Lining,21,8,38.1,4.4,10,Active
-P0021,Premier Site Solutions,Milwaukee,WI,42.933014,-87.490747,Catch Basin Repair | Emergency Callout | Erosion Control | Pipe Lining,24,12,50.0,4.5,9,Active
-P0022,Central Infrastructure,Detroit,MI,42.273877,-83.349807,CCTV Inspection,14,6,42.9,4.6,1,Active
-P0023,Northstar Site Solutions,Columbus,OH,40.082839,-82.922725,Vactor / Jet Vac,11,4,36.4,3.5,20,Pending
-P0024,Heartland Restoration 24,Cleveland,OH,41.351042,-81.619944,Emergency Callout,10,5,50.0,4.9,17,Active
-P0025,Northstar Field Services,Lansing,MI,42.445921,-84.498132,Emergency Callout,17,10,58.8,4.8,29,Active
-P0026,Midwest Waterworks,Chicago,IL,41.978024,-87.161543,Erosion Control | Vactor / Jet Vac,24,9,37.5,3.9,9,Active
-P0027,Prairie Infrastructure,Cleveland,OH,41.390153,-82.13494,Catch Basin Repair,21,13,61.9,4.1,3,Active
-P0028,Evergreen Field Services,Terre Haute,IN,39.182338,-87.313576,CCTV Inspection,18,12,66.7,5.0,52,Active
-P0029,Crossroads Environmental 29,Grand Rapids,MI,43.079435,-85.984752,CCTV Inspection | Catch Basin Repair | Emergency Callout | Erosion Control,19,4,21.1,4.3,11,Pending
-P0030,Summit Waterworks,Fort Wayne,IN,40.963,-85.335271,Stormwater Inspection,12,6,50.0,4.7,21,Active
-P0031,Red Oak Field Services,Grand Rapids,MI,42.918982,-85.999509,Pond Maintenance,10,0,0.0,4.0,19,Active
-P0032,Blue River Contracting,Grand Rapids,MI,43.45842,-85.626412,Emergency Callout,20,13,65.0,4.0,6,Active
-P0033,Heartland Utility Services,Detroit,MI,42.061167,-83.277872,CCTV Inspection,11,12,109.1,3.8,29,Active
-P0034,Clearwater Municipal Services,Lansing,MI,42.47968,-84.257397,CCTV Inspection | Catch Basin Repair,22,13,59.1,4.1,19,Active
-P0035,Clearwater Contracting,Dayton,OH,39.575559,-84.048857,Stormwater Inspection,8,3,37.5,3.6,5,Active
-P0036,Blue River Field Services,South Bend,IN,41.724725,-85.746691,CCTV Inspection | Vactor / Jet Vac,21,12,57.1,4.1,23,Active
-P0037,Keystone Contracting,Lafayette,IN,40.78238,-86.805098,Catch Basin Repair | Pipe Lining | Stormwater Inspection,9,3,33.3,4.7,24,Pending
-P0038,Northstar Restoration,Toledo,OH,42.082812,-83.479265,Pond Maintenance,7,0,0.0,3.6,38,Active
-P0039,Great Lakes Restoration 39,Evansville,IN,38.454226,-87.628546,Pond Maintenance,23,11,47.8,4.9,7,Expiring Soon
-P0040,Red Oak Drainage Group,Cincinnati,OH,38.852576,-84.306135,Pond Maintenance | Stormwater Inspection,5,1,20.0,4.2,18,Active
-P0041,Blue River Environmental 41,Dayton,OH,39.853421,-83.741206,Erosion Control | Pipe Lining,12,6,50.0,4.5,1,Expiring Soon
-P0042,Great Lakes Waterworks 42,Grand Rapids,MI,42.949759,-85.937934,CCTV Inspection | Vactor / Jet Vac,8,0,0.0,3.8,16,Active
-P0043,Northstar Restoration 43,Louisville,KY,38.509153,-86.182946,Pipe Lining,5,2,40.0,4.0,16,Active
-P0044,Keystone Contracting 44,Fort Wayne,IN,41.360072,-84.967203,Catch Basin Repair,7,7,100.0,4.1,12,Expiring Soon
-P0045,Northstar Utility Services,Chicago,IL,41.81542,-87.552201,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,17,9,52.9,3.7,20,Active
-P0046,Prairie Waterworks 46,Cleveland,OH,41.563204,-80.888808,CCTV Inspection | Catch Basin Repair | Pipe Lining,7,9,128.6,3.8,16,Pending
-P0047,Clearwater Site Solutions,Springfield,IL,39.371936,-89.839126,Emergency Callout | Pipe Lining | Stormwater Inspection,11,6,54.5,4.7,11,Active
-P0048,Premier Contracting,Cincinnati,OH,38.919939,-85.199132,CCTV Inspection,12,6,50.0,3.7,14,Active
-P0049,Red Oak Restoration,Lexington,KY,37.795079,-84.533864,Emergency Callout | Vactor / Jet Vac,12,1,8.3,3.5,43,Active
-P0050,Blue River Infrastructure,Dayton,OH,39.398422,-84.542571,Emergency Callout | Erosion Control,14,13,92.9,5.0,7,Active
-P0051,Heartland Waterworks,Detroit,MI,42.22829,-82.936502,Catch Basin Repair | Pipe Lining | Vactor / Jet Vac,17,14,82.4,3.8,17,Active
-P0052,Red Oak Site Solutions 52,Grand Rapids,MI,43.181055,-85.528975,CCTV Inspection | Erosion Control,14,6,42.9,4.1,4,Active
-P0053,Great Lakes Drainage Group,Evansville,IN,37.904911,-87.656344,Pipe Lining | Stormwater Inspection,16,9,56.2,4.0,25,Active
-P0054,Premier Waterworks,Cincinnati,OH,39.38666,-84.462263,Pipe Lining | Pond Maintenance,22,13,59.1,4.2,20,Active
-P0055,Evergreen Drainage Group,Indianapolis,IN,39.566364,-86.056822,Erosion Control,18,9,50.0,5.0,37,Active
-P0056,Ironwood Field Services,Cincinnati,OH,39.211137,-84.756178,Erosion Control | Pipe Lining | Vactor / Jet Vac,13,3,23.1,4.7,22,Active
-P0057,Midwest Infrastructure,Milwaukee,WI,43.17334,-88.464768,Catch Basin Repair | Erosion Control | Pipe Lining,11,8,72.7,4.4,7,Active
-P0058,Clearwater Field Services,Fort Wayne,IN,40.947273,-85.05501,CCTV Inspection | Catch Basin Repair,17,9,52.9,4.1,18,Active
-P0059,Central Waterworks,Lexington,KY,37.970046,-84.45488,Vactor / Jet Vac,7,8,114.3,3.0,17,Active
-P0060,Central Environmental,Detroit,MI,42.380823,-82.951082,CCTV Inspection | Catch Basin Repair,8,3,37.5,3.4,23,Active
-P0061,Northstar Contracting,Grand Rapids,MI,43.447058,-86.158936,Emergency Callout | Erosion Control | Pond Maintenance | Stormwater Inspection,17,11,64.7,4.1,19,Active
-P0062,Great Lakes Field Services,Terre Haute,IN,39.171888,-87.520926,Catch Basin Repair | Stormwater Inspection,24,17,70.8,4.5,39,Expiring Soon
-P0063,Central Site Solutions,Detroit,MI,42.661075,-82.905292,CCTV Inspection,13,12,92.3,4.4,29,Active
-P0064,Keystone Restoration,Cleveland,OH,41.41626,-81.673105,Pipe Lining,11,3,27.3,4.6,7,Expiring Soon
-P0065,Heartland Waterworks 65,Cincinnati,OH,39.322158,-84.573008,Catch Basin Repair | Emergency Callout,5,6,120.0,4.5,40,Pending
-P0066,Keystone Municipal Services 66,Lexington,KY,38.245217,-85.006753,Catch Basin Repair | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,19,10,52.6,3.7,14,Inactive
-P0067,Prairie Waterworks 67,Toledo,OH,42.075944,-83.333889,Erosion Control | Pond Maintenance | Stormwater Inspection,21,9,42.9,3.7,20,Pending
-P0068,Clearwater Drainage Group,Springfield,IL,39.441063,-89.864865,Catch Basin Repair | Vactor / Jet Vac,14,8,57.1,4.7,26,Expiring Soon
-P0069,Keystone Utility Services,Peoria,IL,40.052039,-89.491603,Catch Basin Repair | Erosion Control | Pond Maintenance | Vactor / Jet Vac,4,2,50.0,4.4,37,Active
-P0070,Crossroads Field Services,Lafayette,IN,39.838993,-87.064453,Pond Maintenance,16,10,62.5,3.5,36,Active
-P0071,Midwest Waterworks 71,Cleveland,OH,41.60244,-81.423493,Stormwater Inspection,12,4,33.3,4.6,31,Active
-P0072,Blue River Contracting 72,Grand Rapids,MI,43.028606,-85.593092,CCTV Inspection,24,14,58.3,3.8,18,Expiring Soon
-P0073,Clearwater Environmental,Columbus,OH,39.918494,-82.876114,CCTV Inspection | Catch Basin Repair,19,13,68.4,3.7,18,Active
-P0074,Central Drainage Group,Cincinnati,OH,39.517908,-84.749948,Pipe Lining | Pond Maintenance | Stormwater Inspection,7,1,14.3,4.3,29,Inactive
-P0075,Northstar Environmental,Evansville,IN,37.974799,-87.145833,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,6,5,83.3,4.6,26,Expiring Soon
-P0076,Heartland Drainage Group 76,Columbus,OH,40.612943,-83.064452,CCTV Inspection | Pond Maintenance | Stormwater Inspection,5,0,0.0,4.9,14,Active
-P0077,Heartland Restoration 77,Louisville,KY,38.282907,-85.339444,Stormwater Inspection | Vactor / Jet Vac,17,4,23.5,3.6,2,Active
-P0078,Red Oak Field Services 78,Louisville,KY,38.030342,-85.617816,CCTV Inspection | Erosion Control | Stormwater Inspection,20,12,60.0,4.3,4,Active
-P0079,Prairie Field Services,Grand Rapids,MI,42.316571,-85.650707,Pipe Lining | Pond Maintenance,11,4,36.4,4.4,27,Active
-P0080,Clearwater Field Services 80,Peoria,IL,40.732308,-89.345757,Pipe Lining | Stormwater Inspection,4,2,50.0,4.4,12,Pending
-P0081,Central Site Solutions 81,Terre Haute,IN,39.416409,-87.350932,Pipe Lining | Pond Maintenance,12,9,75.0,4.0,25,Expiring Soon
-P0082,Ironwood Environmental,Dayton,OH,39.684465,-84.229213,Catch Basin Repair | Vactor / Jet Vac,11,8,72.7,3.3,5,Active
-P0083,Great Lakes Field Services 83,Columbus,OH,39.546188,-83.745557,Catch Basin Repair | Emergency Callout,4,0,0.0,4.5,16,Active
-P0084,Great Lakes Site Solutions,Lexington,KY,38.095981,-84.15515,Catch Basin Repair | Erosion Control,21,15,71.4,4.2,34,Active
-P0085,Midwest Contracting 85,Grand Rapids,MI,42.989195,-85.936067,Pipe Lining | Pond Maintenance | Stormwater Inspection,11,4,36.4,3.5,10,Expiring Soon
-P0086,Heartland Restoration 86,Cleveland,OH,41.399055,-81.437253,CCTV Inspection | Catch Basin Repair | Pipe Lining | Stormwater Inspection,12,11,91.7,3.6,24,Inactive
-P0087,Northstar Drainage Group,Detroit,MI,42.040048,-82.893897,CCTV Inspection | Catch Basin Repair | Pipe Lining | Stormwater Inspection,9,4,44.4,3.4,30,Active
-P0088,Summit Drainage Group 88,Grand Rapids,MI,42.794,-85.838948,Vactor / Jet Vac,21,8,38.1,3.9,24,Expiring Soon
-P0089,Red Oak Field Services 89,Lafayette,IN,40.363712,-86.770128,Vactor / Jet Vac,22,13,59.1,4.8,16,Active
-P0090,Midwest Utility Services,Peoria,IL,40.28008,-89.247489,Catch Basin Repair | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,6,2,33.3,4.7,24,Active
-P0091,Red Oak Environmental,Lansing,MI,42.695781,-84.443892,Pond Maintenance,6,7,116.7,5.0,20,Active
-P0092,Northstar Municipal Services,Chicago,IL,41.922953,-87.285403,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,16,6,37.5,4.3,19,Pending
-P0093,Crossroads Municipal Services,Toledo,OH,41.740694,-83.804578,Emergency Callout | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,23,7,30.4,3.3,7,Inactive
-P0094,Red Oak Site Solutions 94,Cincinnati,OH,38.974671,-84.605821,CCTV Inspection,9,10,111.1,4.7,9,Active
-P0095,Summit Environmental,South Bend,IN,41.773758,-86.382265,Emergency Callout | Pipe Lining,5,1,20.0,4.3,26,Active
-P0096,Great Lakes Field Services 96,Toledo,OH,41.557808,-83.197468,Catch Basin Repair,12,3,25.0,4.2,48,Active
-P0097,Premier Infrastructure,Cincinnati,OH,39.165562,-84.053371,Emergency Callout | Pipe Lining,8,4,50.0,4.5,19,Active
-P0098,Northstar Municipal Services 98,Toledo,OH,41.605086,-83.787334,Catch Basin Repair | Emergency Callout | Pipe Lining | Vactor / Jet Vac,16,10,62.5,3.8,27,Active
-P0099,Central Infrastructure 99,Springfield,IL,40.08558,-89.53281,Erosion Control | Stormwater Inspection,14,6,42.9,4.4,16,Active
-P0100,Clearwater Municipal Services 100,South Bend,IN,41.938353,-86.83805,Stormwater Inspection | Vactor / Jet Vac,12,5,41.7,3.3,3,Active
-P0101,Central Restoration,Terre Haute,IN,39.848581,-87.127441,CCTV Inspection | Pond Maintenance,22,9,40.9,3.5,1,Active
-P0102,Heartland Field Services,Springfield,IL,39.629521,-88.875567,Erosion Control | Pipe Lining,7,5,71.4,3.9,25,Active
-P0103,Evergreen Waterworks,Springfield,IL,39.344632,-89.745243,Catch Basin Repair | Emergency Callout | Vactor / Jet Vac,14,7,50.0,4.2,28,Active
-P0104,Crossroads Restoration,Lexington,KY,38.137101,-84.289836,Erosion Control | Pond Maintenance | Vactor / Jet Vac,18,7,38.9,4.6,37,Active
-P0105,Midwest Municipal Services,Detroit,MI,42.059758,-83.329863,Emergency Callout | Stormwater Inspection | Vactor / Jet Vac,10,9,90.0,4.1,35,Active
-P0106,Central Field Services,Toledo,OH,41.52889,-83.072285,Catch Basin Repair,9,5,55.6,4.3,37,Active
-P0107,Premier Infrastructure 107,Grand Rapids,MI,42.862104,-85.969259,CCTV Inspection,18,8,44.4,4.4,2,Active
-P0108,Central Drainage Group 108,Lafayette,IN,40.595192,-87.047707,Catch Basin Repair | Pond Maintenance,19,13,68.4,3.1,11,Active
-P0109,Summit Waterworks 109,Grand Rapids,MI,42.491189,-85.932493,Pipe Lining,6,4,66.7,4.1,17,Expiring Soon
-P0110,Midwest Restoration,Chicago,IL,41.833528,-87.564716,Vactor / Jet Vac,13,4,30.8,4.5,27,Pending
-P0111,Red Oak Field Services 111,Lansing,MI,42.840311,-84.377409,Catch Basin Repair | Emergency Callout | Pond Maintenance,15,9,60.0,5.0,19,Active
-P0112,Premier Field Services,Grand Rapids,MI,42.877417,-85.909229,CCTV Inspection | Catch Basin Repair | Erosion Control | Pond Maintenance,16,5,31.2,3.6,10,Pending
-P0113,Blue River Contracting 113,Chicago,IL,41.858309,-87.522826,Catch Basin Repair | Erosion Control | Stormwater Inspection,24,13,54.2,3.9,29,Active
-P0114,Summit Restoration,Fort Wayne,IN,41.286336,-85.190487,Catch Basin Repair | Erosion Control | Stormwater Inspection | Vactor / Jet Vac,7,1,14.3,4.4,22,Pending
-P0115,Great Lakes Utility Services,Indianapolis,IN,39.362924,-86.179854,Pipe Lining | Vactor / Jet Vac,19,11,57.9,3.8,22,Active
-P0116,Red Oak Infrastructure,Lexington,KY,37.63325,-84.07612,Erosion Control | Pipe Lining | Stormwater Inspection,19,14,73.7,4.1,23,Active
-P0117,Clearwater Drainage Group 117,South Bend,IN,41.001622,-86.622031,CCTV Inspection | Catch Basin Repair | Erosion Control | Vactor / Jet Vac,18,9,50.0,3.7,27,Expiring Soon
-P0118,Blue River Contracting 118,Indianapolis,IN,40.327643,-86.534617,Pipe Lining | Pond Maintenance | Stormwater Inspection,17,6,35.3,4.3,37,Active
-P0119,Northstar Utility Services 119,Chicago,IL,41.535835,-87.550108,CCTV Inspection,23,18,78.3,3.5,5,Active
-P0120,Central Municipal Services,Columbus,OH,39.84259,-83.165388,Emergency Callout,24,15,62.5,4.3,1,Active
-P0121,Keystone Field Services,Indianapolis,IN,39.912715,-86.342912,Catch Basin Repair | Pipe Lining | Vactor / Jet Vac,15,12,80.0,3.9,12,Active
-P0122,Great Lakes Drainage Group 122,Chicago,IL,42.029617,-87.385664,CCTV Inspection | Pond Maintenance,16,10,62.5,3.4,25,Active
-P0123,Northstar Contracting 123,Lexington,KY,37.750994,-84.428412,Pond Maintenance | Vactor / Jet Vac,16,4,25.0,4.4,11,Active
-P0124,Keystone Municipal Services 124,Fort Wayne,IN,40.720162,-84.910978,CCTV Inspection | Pond Maintenance | Stormwater Inspection,23,13,56.5,3.9,35,Active
-P0125,Northstar Drainage Group 125,Cincinnati,OH,38.979717,-84.501726,Erosion Control | Pipe Lining,7,4,57.1,3.9,25,Active
-P0126,Blue River Municipal Services,Peoria,IL,40.544233,-89.720724,Pipe Lining | Vactor / Jet Vac,13,11,84.6,3.7,1,Expiring Soon
-P0127,Clearwater Utility Services,Terre Haute,IN,39.917762,-86.598115,Erosion Control | Pond Maintenance | Stormwater Inspection,12,5,41.7,3.3,16,Active
-P0128,Prairie Drainage Group,Springfield,IL,39.701558,-89.710876,Erosion Control | Stormwater Inspection | Vactor / Jet Vac,18,6,33.3,4.5,25,Active
-P0129,Crossroads Waterworks,Columbus,OH,39.542766,-82.775057,Catch Basin Repair | Erosion Control | Stormwater Inspection | Vactor / Jet Vac,12,12,100.0,4.3,16,Active
-P0130,Red Oak Drainage Group 130,Louisville,KY,38.212939,-85.561618,Erosion Control | Vactor / Jet Vac,11,0,0.0,4.3,15,Active
-P0131,Midwest Municipal Services 131,Grand Rapids,MI,43.480791,-85.723835,CCTV Inspection,24,18,75.0,3.7,26,Pending
-P0132,Red Oak Waterworks,Toledo,OH,41.742232,-83.815995,Vactor / Jet Vac,5,3,60.0,4.7,16,Inactive
-P0133,Heartland Site Solutions,Evansville,IN,37.49785,-87.57672,Catch Basin Repair | Pipe Lining | Stormwater Inspection,15,5,33.3,4.0,19,Active
-P0134,Keystone Waterworks,Lafayette,IN,39.939117,-87.392311,Emergency Callout | Pond Maintenance,17,10,58.8,4.0,1,Active
-P0135,Clearwater Field Services 135,Louisville,KY,38.472456,-85.671342,Catch Basin Repair | Stormwater Inspection,15,6,40.0,3.6,29,Inactive
-P0136,Ironwood Contracting,Louisville,KY,38.350518,-84.996067,Pond Maintenance,10,6,60.0,4.4,18,Inactive
-P0137,Heartland Site Solutions 137,Peoria,IL,40.922297,-89.388973,Emergency Callout | Vactor / Jet Vac,14,11,78.6,4.0,15,Inactive
-P0138,Clearwater Infrastructure,Lansing,MI,42.598351,-84.302443,CCTV Inspection | Catch Basin Repair | Pond Maintenance,11,10,90.9,4.0,15,Expiring Soon
-P0139,Blue River Drainage Group 139,Milwaukee,WI,43.126842,-87.985144,CCTV Inspection | Pipe Lining | Pond Maintenance,12,9,75.0,3.2,10,Active
-P0140,Summit Environmental 140,Indianapolis,IN,39.549323,-86.900614,Catch Basin Repair | Pond Maintenance,14,4,28.6,3.8,17,Active
-P0141,Summit Waterworks 141,Fort Wayne,IN,41.39093,-85.217819,CCTV Inspection | Catch Basin Repair,18,6,33.3,4.2,31,Active
-P0142,Central Restoration 142,Evansville,IN,37.698332,-87.862484,Vactor / Jet Vac,20,12,60.0,4.1,27,Active
-P0143,Blue River Field Services 143,Indianapolis,IN,39.764579,-85.933568,Erosion Control | Stormwater Inspection | Vactor / Jet Vac,19,7,36.8,4.2,17,Active
-P0144,Midwest Municipal Services 144,South Bend,IN,41.335951,-86.752313,Pipe Lining,12,8,66.7,4.0,8,Active
-P0145,Great Lakes Contracting,Grand Rapids,MI,42.93647,-85.307134,Catch Basin Repair | Pond Maintenance,20,4,20.0,3.5,9,Active
-P0146,Crossroads Restoration 146,Evansville,IN,38.38073,-87.480672,Catch Basin Repair | Emergency Callout | Stormwater Inspection,11,8,72.7,3.7,7,Active
-P0147,Premier Waterworks 147,Peoria,IL,40.818988,-89.570352,Catch Basin Repair | Erosion Control | Pipe Lining,12,8,66.7,4.1,23,Inactive
-P0148,Heartland Infrastructure,Springfield,IL,39.825973,-89.401214,CCTV Inspection | Catch Basin Repair | Vactor / Jet Vac,15,10,66.7,3.5,1,Active
-P0149,Ironwood Restoration,Lansing,MI,43.012989,-84.175428,CCTV Inspection | Catch Basin Repair,15,5,33.3,3.4,21,Pending
-P0150,Evergreen Municipal Services,Fort Wayne,IN,41.339935,-84.56417,CCTV Inspection | Pond Maintenance,20,12,60.0,4.0,10,Active
-P0151,Clearwater Infrastructure 151,Springfield,IL,39.784906,-89.745865,Erosion Control | Vactor / Jet Vac,12,3,25.0,5.0,39,Active
-P0152,Crossroads Restoration 152,Chicago,IL,42.196194,-87.924472,Erosion Control | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,4,4,100.0,4.5,24,Active
-P0153,Keystone Contracting 153,Toledo,OH,42.002706,-83.334581,Pipe Lining | Stormwater Inspection,8,6,75.0,4.5,23,Active
-P0154,Summit Environmental 154,South Bend,IN,41.176989,-86.225241,Catch Basin Repair,16,7,43.8,3.6,38,Active
-P0155,Midwest Drainage Group,Terre Haute,IN,39.950819,-86.978949,CCTV Inspection | Emergency Callout | Vactor / Jet Vac,9,5,55.6,4.8,20,Active
-P0156,Evergreen Field Services 156,South Bend,IN,41.733183,-86.601911,Emergency Callout | Pond Maintenance,18,11,61.1,4.2,5,Active
-P0157,Heartland Contracting,Detroit,MI,42.317065,-83.071313,Erosion Control | Pond Maintenance,22,17,77.3,4.6,20,Active
-P0158,Blue River Site Solutions,Toledo,OH,41.72246,-83.523752,Emergency Callout | Vactor / Jet Vac,10,4,40.0,3.7,18,Inactive
-P0159,Prairie Drainage Group 159,Lafayette,IN,40.207792,-87.275401,CCTV Inspection,4,3,75.0,4.4,1,Expiring Soon
-P0160,Summit Waterworks 160,Terre Haute,IN,39.432348,-87.095276,Catch Basin Repair | Pond Maintenance,21,14,66.7,4.7,20,Active
-P0161,Premier Environmental,Fort Wayne,IN,40.842687,-85.486184,CCTV Inspection | Stormwater Inspection,14,8,57.1,4.4,34,Active
-P0162,Great Lakes Waterworks 162,Lexington,KY,38.348594,-84.546013,Stormwater Inspection,4,0,0.0,4.1,22,Active
-P0163,Central Contracting,Milwaukee,WI,42.982317,-88.091426,CCTV Inspection,11,6,54.5,4.0,13,Active
-P0164,Heartland Waterworks 164,Detroit,MI,42.418607,-83.174438,CCTV Inspection | Erosion Control | Pipe Lining,9,5,55.6,4.3,7,Active
-P0165,Ironwood Restoration 165,Evansville,IN,37.836852,-87.111011,Erosion Control,15,4,26.7,3.2,1,Active
-P0166,Evergreen Site Solutions,Lafayette,IN,40.424851,-86.865406,Pipe Lining,24,12,50.0,4.7,1,Active
-P0167,Central Municipal Services 167,Springfield,IL,39.892561,-89.15044,Emergency Callout | Erosion Control | Pond Maintenance,24,9,37.5,4.0,11,Active
-P0168,Summit Field Services,Cleveland,OH,41.248883,-81.798804,Emergency Callout,24,17,70.8,5.0,16,Expiring Soon
-P0169,Blue River Contracting 169,Lansing,MI,43.265917,-84.544116,Catch Basin Repair | Pond Maintenance,18,15,83.3,4.2,21,Active
-P0170,Heartland Infrastructure 170,Toledo,OH,41.755133,-82.520667,Catch Basin Repair | Stormwater Inspection,22,14,63.6,3.9,30,Inactive
-P0171,Central Municipal Services 171,Fort Wayne,IN,40.977987,-85.29612,Erosion Control | Pond Maintenance,19,13,68.4,4.2,23,Active
-P0172,Central Infrastructure 172,Fort Wayne,IN,41.083216,-85.031693,Emergency Callout | Erosion Control | Vactor / Jet Vac,20,12,60.0,3.3,27,Active
-P0173,Central Restoration 173,Peoria,IL,40.418635,-90.050536,Emergency Callout | Pipe Lining,15,8,53.3,4.2,12,Active
-P0174,Red Oak Municipal Services,Cleveland,OH,41.731989,-82.123896,Erosion Control,6,2,33.3,3.9,19,Active
-P0175,Evergreen Drainage Group 175,Lexington,KY,38.118682,-84.826226,Emergency Callout | Pipe Lining | Vactor / Jet Vac,22,14,63.6,4.2,1,Pending
-P0176,Red Oak Waterworks 176,Toledo,OH,41.104394,-83.541842,CCTV Inspection,13,6,46.2,4.2,19,Active
-P0177,Crossroads Utility Services,Cleveland,OH,41.562457,-81.391152,CCTV Inspection | Erosion Control,17,6,35.3,3.7,7,Active
-P0178,Evergreen Utility Services,Louisville,KY,38.333597,-85.360117,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,11,4,36.4,3.1,1,Active
-P0179,Crossroads Infrastructure 179,Toledo,OH,41.41955,-83.716373,Erosion Control | Vactor / Jet Vac,14,6,42.9,4.2,16,Active
-P0180,Summit Utility Services,Lexington,KY,38.334415,-84.720026,Pipe Lining,18,7,38.9,4.4,3,Active
-P0181,Central Municipal Services 181,Columbus,OH,40.070314,-82.965983,Emergency Callout,11,5,45.5,4.9,13,Active
-P0182,Keystone Site Solutions,Springfield,IL,40.358583,-89.722238,Catch Basin Repair | Emergency Callout,13,3,23.1,4.2,8,Active
-P0183,Summit Site Solutions,Chicago,IL,41.667608,-87.502749,Emergency Callout | Pipe Lining | Stormwater Inspection,5,4,80.0,3.9,30,Pending
-P0184,Keystone Infrastructure 184,Grand Rapids,MI,43.287502,-85.208483,CCTV Inspection | Pipe Lining | Vactor / Jet Vac,9,6,66.7,4.8,1,Active
-P0185,Summit Waterworks 185,Detroit,MI,42.242386,-83.323242,Catch Basin Repair,18,10,55.6,3.9,18,Inactive
-P0186,Blue River Waterworks,Chicago,IL,42.405109,-87.68411,Catch Basin Repair | Emergency Callout,6,4,66.7,4.1,20,Active
-P0187,Keystone Infrastructure 187,Cleveland,OH,41.500985,-81.550936,CCTV Inspection | Erosion Control | Stormwater Inspection,8,7,87.5,4.9,23,Active
-P0188,Great Lakes Utility Services 188,Springfield,IL,39.946773,-90.018377,Catch Basin Repair | Emergency Callout | Pond Maintenance,4,1,25.0,4.6,29,Active
-P0189,Crossroads Utility Services 189,Cincinnati,OH,39.162351,-84.228354,Stormwater Inspection | Vactor / Jet Vac,13,8,61.5,4.7,23,Active
-P0190,Clearwater Waterworks,Fort Wayne,IN,40.979704,-85.031931,Emergency Callout | Vactor / Jet Vac,7,0,0.0,4.4,1,Active
-P0191,Red Oak Restoration 191,Indianapolis,IN,39.28583,-86.013534,Emergency Callout | Pipe Lining,17,10,58.8,3.7,12,Active
-P0192,Northstar Waterworks,Columbus,OH,40.344951,-83.15369,CCTV Inspection,20,17,85.0,4.2,24,Active
-P0193,Ironwood Restoration 193,Detroit,MI,42.784125,-83.003871,Catch Basin Repair | Stormwater Inspection | Vactor / Jet Vac,5,0,0.0,4.2,19,Inactive
-P0194,Great Lakes Environmental,Dayton,OH,39.376772,-84.273466,CCTV Inspection | Pipe Lining,11,3,27.3,4.6,20,Expiring Soon
-P0195,Summit Environmental 195,Cleveland,OH,41.420117,-81.728378,Erosion Control | Stormwater Inspection,24,13,54.2,4.5,9,Pending
-P0196,Great Lakes Field Services 196,Peoria,IL,40.401955,-89.235503,Pipe Lining | Vactor / Jet Vac,18,8,44.4,3.6,24,Active
-P0197,Prairie Site Solutions,Fort Wayne,IN,41.209044,-85.629229,Erosion Control | Pipe Lining | Pond Maintenance,16,9,56.2,4.5,24,Active
-P0198,Prairie Site Solutions 198,Fort Wayne,IN,41.256255,-85.588766,Vactor / Jet Vac,24,14,58.3,4.1,14,Active
-P0199,Premier Waterworks 199,Louisville,KY,38.496456,-85.285132,CCTV Inspection | Pipe Lining | Stormwater Inspection,19,15,78.9,4.8,18,Active
-P0200,Evergreen Infrastructure,Detroit,MI,42.430162,-82.800417,CCTV Inspection | Catch Basin Repair | Pond Maintenance,9,5,55.6,4.3,29,Active
-P0201,Heartland Contracting 201,Evansville,IN,37.955001,-87.804472,Catch Basin Repair | Pond Maintenance,23,11,47.8,4.5,20,Active
-P0202,Midwest Field Services,Peoria,IL,40.788859,-89.374575,Erosion Control,23,11,47.8,4.5,24,Active
-P0203,Heartland Waterworks 203,Fort Wayne,IN,40.733552,-84.677862,Pipe Lining | Vactor / Jet Vac,8,2,25.0,3.5,8,Active
-P0204,Blue River Utility Services,Peoria,IL,40.407707,-89.572305,Erosion Control,15,7,46.7,4.0,26,Inactive
-P0205,Northstar Utility Services 205,Fort Wayne,IN,41.174465,-85.038265,Erosion Control | Pipe Lining,18,11,61.1,4.5,1,Active
-P0206,Midwest Waterworks 206,Detroit,MI,42.229357,-83.743467,CCTV Inspection | Pond Maintenance,7,3,42.9,4.2,31,Expiring Soon
-P0207,Ironwood Waterworks,Springfield,IL,40.114238,-89.585212,CCTV Inspection | Pipe Lining | Stormwater Inspection,18,8,44.4,4.4,14,Inactive
-P0208,Great Lakes Field Services 208,Toledo,OH,41.65241,-83.222336,Pipe Lining,6,1,16.7,4.6,27,Active
-P0209,Heartland Contracting 209,Peoria,IL,40.426258,-89.277354,CCTV Inspection | Pond Maintenance,21,13,61.9,4.2,11,Pending
-P0210,Great Lakes Utility Services 210,Terre Haute,IN,39.226122,-87.585952,CCTV Inspection | Catch Basin Repair | Vactor / Jet Vac,8,6,75.0,3.8,24,Expiring Soon
-P0211,Midwest Restoration 211,Indianapolis,IN,39.420708,-86.223402,Emergency Callout | Stormwater Inspection,21,11,52.4,5.0,4,Active
-P0212,Heartland Drainage Group 212,South Bend,IN,42.088564,-86.20405,Emergency Callout | Pond Maintenance,17,10,58.8,4.3,24,Pending
-P0213,Summit Contracting 213,South Bend,IN,41.633368,-85.786704,Catch Basin Repair | Emergency Callout,20,9,45.0,4.7,12,Active
-P0214,Red Oak Municipal Services 214,Grand Rapids,MI,42.946529,-86.011128,Pipe Lining,17,10,58.8,4.9,19,Pending
-P0215,Crossroads Infrastructure 215,Fort Wayne,IN,41.024172,-85.496077,CCTV Inspection | Pond Maintenance,9,4,44.4,3.5,9,Inactive
-P0216,Midwest Restoration 216,Columbus,OH,40.0247,-82.576716,CCTV Inspection | Emergency Callout | Pipe Lining,24,21,87.5,3.9,35,Active
-P0217,Northstar Restoration 217,Toledo,OH,41.721051,-83.586299,Pipe Lining,22,13,59.1,4.2,21,Active
-P0218,Great Lakes Municipal Services,Milwaukee,WI,42.924567,-88.353895,Stormwater Inspection | Vactor / Jet Vac,4,0,0.0,4.5,16,Active
-P0219,Evergreen Site Solutions 219,Lansing,MI,42.565595,-84.552778,Erosion Control | Pond Maintenance | Stormwater Inspection,4,4,100.0,4.3,12,Pending
-P0220,Evergreen Drainage Group 220,Grand Rapids,MI,43.306762,-85.162761,Pipe Lining | Stormwater Inspection,18,11,61.1,4.6,33,Expiring Soon
-P0221,Central Waterworks 221,Terre Haute,IN,39.783128,-87.217388,Catch Basin Repair | Pipe Lining,23,14,60.9,4.4,7,Active
-P0222,Great Lakes Contracting 222,Cleveland,OH,41.695502,-82.12826,Emergency Callout | Pipe Lining | Pond Maintenance | Stormwater Inspection,21,9,42.9,4.8,29,Active
-P0223,Heartland Drainage Group 223,Peoria,IL,41.110072,-89.675936,Pipe Lining | Vactor / Jet Vac,5,0,0.0,4.1,21,Inactive
-P0224,Premier Site Solutions 224,Milwaukee,WI,43.061017,-87.543722,Emergency Callout | Pipe Lining | Pond Maintenance | Stormwater Inspection,14,6,42.9,4.4,9,Expiring Soon
-P0225,Ironwood Field Services 225,Springfield,IL,39.907789,-89.649105,Catch Basin Repair | Pond Maintenance,4,0,0.0,4.1,17,Inactive
-P0226,Central Site Solutions 226,Detroit,MI,42.255757,-82.478971,Erosion Control,5,2,40.0,4.1,1,Active
-P0227,Keystone Field Services 227,Milwaukee,WI,42.788522,-87.990683,Vactor / Jet Vac,7,1,14.3,4.8,18,Active
-P0228,Great Lakes Contracting 228,Dayton,OH,40.119664,-84.171855,Catch Basin Repair | Erosion Control | Vactor / Jet Vac,5,2,40.0,4.2,20,Active
-P0229,Ironwood Drainage Group,Louisville,KY,38.733963,-86.500775,Emergency Callout,21,5,23.8,4.0,20,Pending
-P0230,Red Oak Municipal Services 230,Milwaukee,WI,43.232129,-87.755112,CCTV Inspection,16,7,43.8,4.7,31,Expiring Soon
-P0231,Ironwood Contracting 231,Cleveland,OH,41.550836,-81.38635,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,16,9,56.2,3.9,27,Active
-P0232,Summit Contracting 232,Fort Wayne,IN,41.110272,-85.138971,CCTV Inspection | Emergency Callout | Pond Maintenance,20,15,75.0,3.1,4,Active
-P0233,Midwest Utility Services 233,Milwaukee,WI,42.70652,-88.022743,Emergency Callout | Pond Maintenance,14,6,42.9,3.5,9,Pending
-P0234,Central Municipal Services 234,Grand Rapids,MI,42.722364,-84.881724,Vactor / Jet Vac,15,13,86.7,4.0,16,Active
-P0235,Northstar Drainage Group 235,Chicago,IL,41.556323,-88.240402,Catch Basin Repair | Pond Maintenance | Vactor / Jet Vac,12,6,50.0,3.8,19,Active
-P0236,Northstar Field Services 236,Fort Wayne,IN,40.631242,-85.383232,Stormwater Inspection,8,4,50.0,4.4,24,Active
-P0237,Clearwater Environmental 237,Evansville,IN,37.601863,-87.297601,CCTV Inspection | Stormwater Inspection,17,6,35.3,4.5,19,Active
-P0238,Keystone Field Services 238,Milwaukee,WI,42.653512,-88.007683,CCTV Inspection | Erosion Control | Vactor / Jet Vac,20,12,60.0,4.5,18,Active
-P0239,Ironwood Waterworks 239,Springfield,IL,40.210598,-89.327697,Catch Basin Repair | Pipe Lining,21,10,47.6,4.5,41,Active
-P0240,Northstar Field Services 240,Dayton,OH,40.307836,-84.58456,Catch Basin Repair,12,3,25.0,4.9,8,Active
-P0241,Prairie Drainage Group 241,Toledo,OH,41.282488,-83.693482,Catch Basin Repair | Emergency Callout | Pipe Lining,15,9,60.0,4.2,12,Inactive
-P0242,Evergreen Infrastructure 242,Dayton,OH,39.570121,-84.419548,Catch Basin Repair | Stormwater Inspection,15,5,33.3,5.0,23,Active
-P0243,Great Lakes Infrastructure,Toledo,OH,41.901093,-83.694405,Emergency Callout | Erosion Control,12,6,50.0,3.9,1,Active
-P0244,Evergreen Restoration,Grand Rapids,MI,42.577557,-86.247498,Pipe Lining | Vactor / Jet Vac,23,5,21.7,3.7,34,Active
-P0245,Red Oak Restoration 245,Fort Wayne,IN,41.066858,-84.72642,Catch Basin Repair,5,3,60.0,4.6,10,Active
-P0246,Heartland Utility Services 246,Springfield,IL,39.928406,-89.416911,Pipe Lining,17,7,41.2,4.5,26,Active
-P0247,Prairie Drainage Group 247,Cincinnati,OH,38.949225,-84.871286,Stormwater Inspection | Vactor / Jet Vac,6,0,0.0,4.2,23,Active
-P0248,Keystone Utility Services 248,Fort Wayne,IN,40.857393,-85.130893,Pipe Lining | Vactor / Jet Vac,16,10,62.5,4.5,37,Active
-P0249,Keystone Environmental,Toledo,OH,42.010355,-83.858313,CCTV Inspection,14,12,85.7,4.0,31,Active
-P0250,Ironwood Field Services 250,Grand Rapids,MI,42.982436,-85.799988,Pipe Lining | Pond Maintenance | Stormwater Inspection,18,4,22.2,4.1,2,Active
-P0251,Midwest Utility Services 251,Evansville,IN,38.242444,-87.085726,CCTV Inspection | Erosion Control | Pond Maintenance,4,0,0.0,4.3,12,Expiring Soon
-P0252,Red Oak Site Solutions 252,Lansing,MI,42.556524,-84.307662,Stormwater Inspection,17,9,52.9,5.0,14,Active
-P0253,Red Oak Infrastructure 253,Lexington,KY,38.320414,-84.472528,Pipe Lining,19,12,63.2,4.0,19,Inactive
-P0254,Evergreen Waterworks 254,Indianapolis,IN,39.73606,-86.425638,Pond Maintenance,14,9,64.3,4.5,26,Active
-P0255,Blue River Drainage Group 255,Lansing,MI,43.16285,-84.09171,Catch Basin Repair | Vactor / Jet Vac,7,2,28.6,4.4,13,Active
-P0256,Red Oak Restoration 256,Lexington,KY,38.047139,-84.69562,Erosion Control | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,15,13,86.7,4.4,17,Active
-P0257,Central Utility Services,Lafayette,IN,40.750913,-87.569897,Catch Basin Repair | Erosion Control,21,5,23.8,4.6,20,Expiring Soon
-P0258,Prairie Site Solutions 258,Cincinnati,OH,39.173225,-84.936447,CCTV Inspection | Pond Maintenance,18,9,50.0,5.0,29,Expiring Soon
-P0259,Keystone Municipal Services 259,South Bend,IN,41.723918,-86.392497,Catch Basin Repair,22,10,45.5,3.2,22,Active
-P0260,Crossroads Restoration 260,Cleveland,OH,41.736035,-82.198598,Catch Basin Repair | Erosion Control,22,10,45.5,3.7,9,Active
-P0261,Central Environmental 261,Detroit,MI,42.346375,-83.712809,Catch Basin Repair | Stormwater Inspection,22,13,59.1,4.5,17,Active
-P0262,Great Lakes Environmental 262,Toledo,OH,40.958202,-83.856754,Erosion Control | Vactor / Jet Vac,10,9,90.0,2.9,16,Active
-P0263,Midwest Infrastructure 263,Chicago,IL,41.5477,-87.372338,Emergency Callout | Vactor / Jet Vac,19,8,42.1,4.4,26,Active
-P0264,Prairie Utility Services 264,Terre Haute,IN,39.980843,-87.478841,Catch Basin Repair | Pipe Lining | Stormwater Inspection,18,11,61.1,3.5,33,Active
-P0265,Summit Contracting 265,Grand Rapids,MI,42.750458,-85.847541,Stormwater Inspection,20,10,50.0,3.5,22,Expiring Soon
-P0266,Crossroads Environmental 266,Columbus,OH,40.232091,-82.905061,Catch Basin Repair | Erosion Control | Pond Maintenance,21,6,28.6,4.1,28,Active
-P0267,Clearwater Field Services 267,Columbus,OH,39.435363,-83.342725,CCTV Inspection | Pond Maintenance,7,6,85.7,4.3,24,Expiring Soon
-P0268,Northstar Environmental 268,Chicago,IL,42.398759,-87.479863,CCTV Inspection,7,5,71.4,5.0,17,Active
-P0269,Red Oak Environmental 269,Milwaukee,WI,42.815493,-87.769605,Vactor / Jet Vac,16,10,62.5,4.0,8,Active
-P0270,Prairie Environmental,Cincinnati,OH,39.749856,-84.40741,Pond Maintenance,11,3,27.3,4.6,18,Active
-P0271,Prairie Contracting,Milwaukee,WI,42.968093,-87.726573,Pipe Lining,20,7,35.0,4.4,41,Active
-P0272,Blue River Restoration,Dayton,OH,39.88943,-84.311988,Catch Basin Repair | Erosion Control | Pipe Lining | Stormwater Inspection,21,10,47.6,4.0,17,Active
-P0273,Red Oak Waterworks 273,Louisville,KY,38.146914,-85.46528,Catch Basin Repair | Emergency Callout | Erosion Control,17,4,23.5,4.6,15,Active
-P0274,Prairie Restoration,Terre Haute,IN,39.572245,-87.774536,Catch Basin Repair | Pipe Lining,8,8,100.0,4.8,30,Pending
-P0275,Premier Waterworks 275,Grand Rapids,MI,42.539269,-85.402781,Catch Basin Repair | Pipe Lining,11,7,63.6,3.5,19,Active
-P0276,Keystone Field Services 276,South Bend,IN,41.77847,-86.074056,CCTV Inspection | Erosion Control | Pond Maintenance,10,6,60.0,4.3,36,Active
-P0277,Northstar Environmental 277,Milwaukee,WI,43.382189,-88.823958,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,21,10,47.6,4.1,1,Active
-P0278,Evergreen Environmental,Cleveland,OH,41.525671,-81.294798,Catch Basin Repair,7,0,0.0,4.4,9,Pending
-P0279,Great Lakes Site Solutions 279,Milwaukee,WI,42.850765,-87.433734,Catch Basin Repair | Pond Maintenance,14,6,42.9,4.4,1,Active
-P0280,Red Oak Contracting,Grand Rapids,MI,43.484849,-85.475251,Erosion Control | Pond Maintenance,19,9,47.4,4.5,4,Active
-P0281,Prairie Contracting 281,Springfield,IL,40.112809,-89.753775,Catch Basin Repair | Erosion Control | Pipe Lining,5,2,40.0,4.0,13,Pending
-P0282,Blue River Drainage Group 282,Lafayette,IN,40.611208,-86.79341,Pipe Lining | Stormwater Inspection,8,6,75.0,4.2,25,Active
-P0283,Northstar Site Solutions 283,Lexington,KY,37.923322,-83.790186,Erosion Control | Pipe Lining,19,5,26.3,4.8,35,Active
-P0284,Summit Utility Services 284,Louisville,KY,38.014096,-85.045132,CCTV Inspection | Emergency Callout | Pond Maintenance,24,16,66.7,4.6,20,Active
-P0285,Crossroads Environmental 285,South Bend,IN,41.615577,-86.319011,CCTV Inspection | Erosion Control | Stormwater Inspection,11,7,63.6,4.8,21,Expiring Soon
-P0286,Clearwater Restoration,Indianapolis,IN,39.513196,-85.894283,Pond Maintenance | Vactor / Jet Vac,24,15,62.5,4.5,28,Pending
-P0287,Blue River Environmental 287,Springfield,IL,39.70584,-89.947377,Stormwater Inspection | Vactor / Jet Vac,4,0,0.0,3.5,22,Expiring Soon
-P0288,Evergreen Environmental 288,Grand Rapids,MI,42.940034,-85.808896,Emergency Callout | Stormwater Inspection,9,0,0.0,3.6,32,Pending
-P0289,Summit Site Solutions 289,Detroit,MI,42.145305,-82.930411,Pond Maintenance,15,4,26.7,4.8,18,Expiring Soon
-P0290,Midwest Waterworks 290,South Bend,IN,41.757611,-85.50775,Catch Basin Repair | Erosion Control,11,10,90.9,4.1,13,Expiring Soon
-P0291,Red Oak Environmental 291,South Bend,IN,41.585247,-86.088833,Stormwater Inspection,16,8,50.0,4.0,36,Active
-P0292,Great Lakes Utility Services 292,Indianapolis,IN,39.736421,-85.422231,Stormwater Inspection,24,13,54.2,5.0,23,Active
-P0293,Keystone Restoration 293,Evansville,IN,38.241229,-87.802976,CCTV Inspection | Catch Basin Repair | Erosion Control,22,9,40.9,4.4,30,Active
-P0294,Red Oak Drainage Group 294,South Bend,IN,41.687672,-86.663646,CCTV Inspection | Pipe Lining | Vactor / Jet Vac,4,0,0.0,3.6,1,Active
-P0295,Keystone Infrastructure 295,Lexington,KY,38.071256,-84.143686,Catch Basin Repair,22,12,54.5,3.2,17,Active
-P0296,Midwest Waterworks 296,Grand Rapids,MI,42.917816,-84.99738,Erosion Control | Pipe Lining | Stormwater Inspection,6,0,0.0,4.0,38,Expiring Soon
-P0297,Blue River Infrastructure 297,Louisville,KY,38.378694,-85.57824,CCTV Inspection | Pipe Lining,23,12,52.2,4.3,28,Inactive
-P0298,Prairie Contracting 298,Lexington,KY,37.813944,-84.222721,Pond Maintenance,18,5,27.8,4.3,21,Active
-P0299,Premier Waterworks 299,Grand Rapids,MI,42.790838,-85.675359,Stormwater Inspection,6,1,16.7,3.7,16,Active
-P0300,Great Lakes Infrastructure 300,Columbus,OH,39.652083,-82.895505,Pipe Lining,16,5,31.2,4.5,7,Expiring Soon
+provider_id,provider_name,city,state,zip_code,latitude,longitude,services,capacity,active_jobs,utilization_pct,rating,average_response_hours,agreement_status
+P0001,Blue River Drainage Group,Evansville,IN,47708,38.056921,-87.903895,Pipe Lining,7,6,85.7,4.6,1,Active
+P0002,Blue River Environmental,Chicago,IL,60601,41.51349,-87.588891,Catch Basin Repair,20,10,50.0,4.2,10,Active
+P0003,Great Lakes Restoration,Cincinnati,OH,45202,39.349331,-84.263107,Emergency Callout | Pond Maintenance,12,6,50.0,4.7,25,Expiring Soon
+P0004,Great Lakes Waterworks,Terre Haute,IN,47807,39.226098,-87.2959,CCTV Inspection | Pipe Lining,14,4,28.6,4.6,19,Active
+P0005,Midwest Contracting,Evansville,IN,47708,37.919839,-87.788997,Erosion Control | Vactor / Jet Vac,18,13,72.2,4.1,15,Active
+P0006,Heartland Restoration,Lexington,KY,40507,37.942003,-84.333361,Erosion Control,22,13,59.1,4.4,24,Expiring Soon
+P0007,Red Oak Site Solutions,Fort Wayne,IN,46802,41.678961,-85.269453,CCTV Inspection | Emergency Callout | Stormwater Inspection,7,2,28.6,3.8,26,Active
+P0008,Summit Contracting,Louisville,KY,40202,38.568812,-85.794963,Erosion Control | Pond Maintenance,24,10,41.7,3.8,27,Active
+P0009,Ironwood Site Solutions,Terre Haute,IN,47807,39.674811,-87.240091,Stormwater Inspection,12,4,33.3,4.3,21,Active
+P0010,Crossroads Environmental,Cleveland,OH,44113,41.560533,-81.415543,Vactor / Jet Vac,14,8,57.1,4.5,20,Active
+P0011,Keystone Municipal Services,Cincinnati,OH,45202,39.184053,-84.309988,CCTV Inspection | Emergency Callout | Erosion Control,19,6,31.6,4.1,14,Pending
+P0012,Summit Drainage Group,Peoria,IL,61602,40.514714,-89.677046,Pond Maintenance,22,16,72.7,3.8,30,Pending
+P0013,Midwest Site Solutions,Lexington,KY,40507,37.569396,-84.610863,Catch Basin Repair | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,5,3,60.0,4.5,27,Active
+P0014,Prairie Waterworks,Terre Haute,IN,47807,39.688837,-87.525492,Catch Basin Repair | Stormwater Inspection,23,11,47.8,4.6,17,Active
+P0015,Crossroads Environmental 15,Grand Rapids,MI,49503,42.606208,-86.030752,CCTV Inspection | Erosion Control,21,8,38.1,4.4,21,Expiring Soon
+P0016,Heartland Drainage Group,Cleveland,OH,44113,41.692636,-81.831121,Emergency Callout | Vactor / Jet Vac,12,7,58.3,4.5,16,Expiring Soon
+P0017,Keystone Infrastructure,Detroit,MI,48226,42.459297,-83.257616,Erosion Control | Pond Maintenance | Stormwater Inspection,20,9,45.0,4.0,6,Active
+P0018,Prairie Utility Services,Louisville,KY,40202,38.389052,-85.908709,Pond Maintenance | Vactor / Jet Vac,14,7,50.0,4.4,24,Active
+P0019,Keystone Drainage Group,Louisville,KY,40202,38.439008,-85.790015,Catch Basin Repair,22,10,45.5,4.2,1,Active
+P0020,Crossroads Infrastructure,Springfield,IL,62701,39.376509,-90.073364,CCTV Inspection | Catch Basin Repair | Erosion Control | Pipe Lining,21,8,38.1,4.4,10,Active
+P0021,Premier Site Solutions,Milwaukee,WI,53202,42.933014,-87.490747,Catch Basin Repair | Emergency Callout | Erosion Control | Pipe Lining,24,12,50.0,4.5,9,Active
+P0022,Central Infrastructure,Detroit,MI,48226,42.273877,-83.349807,CCTV Inspection,14,6,42.9,4.6,1,Active
+P0023,Northstar Site Solutions,Columbus,OH,43215,40.082839,-82.922725,Vactor / Jet Vac,11,4,36.4,3.5,20,Pending
+P0024,Heartland Restoration 24,Cleveland,OH,44113,41.351042,-81.619944,Emergency Callout,10,5,50.0,4.9,17,Active
+P0025,Northstar Field Services,Lansing,MI,48933,42.445921,-84.498132,Emergency Callout,17,10,58.8,4.8,29,Active
+P0026,Midwest Waterworks,Chicago,IL,60601,41.978024,-87.161543,Erosion Control | Vactor / Jet Vac,24,9,37.5,3.9,9,Active
+P0027,Prairie Infrastructure,Cleveland,OH,44113,41.390153,-82.13494,Catch Basin Repair,21,13,61.9,4.1,3,Active
+P0028,Evergreen Field Services,Terre Haute,IN,47807,39.182338,-87.313576,CCTV Inspection,18,12,66.7,5.0,52,Active
+P0029,Crossroads Environmental 29,Grand Rapids,MI,49503,43.079435,-85.984752,CCTV Inspection | Catch Basin Repair | Emergency Callout | Erosion Control,19,4,21.1,4.3,11,Pending
+P0030,Summit Waterworks,Fort Wayne,IN,46802,40.963,-85.335271,Stormwater Inspection,12,6,50.0,4.7,21,Active
+P0031,Red Oak Field Services,Grand Rapids,MI,49503,42.918982,-85.999509,Pond Maintenance,10,0,0.0,4.0,19,Active
+P0032,Blue River Contracting,Grand Rapids,MI,49503,43.45842,-85.626412,Emergency Callout,20,13,65.0,4.0,6,Active
+P0033,Heartland Utility Services,Detroit,MI,48226,42.061167,-83.277872,CCTV Inspection,11,12,109.1,3.8,29,Active
+P0034,Clearwater Municipal Services,Lansing,MI,48933,42.47968,-84.257397,CCTV Inspection | Catch Basin Repair,22,13,59.1,4.1,19,Active
+P0035,Clearwater Contracting,Dayton,OH,45402,39.575559,-84.048857,Stormwater Inspection,8,3,37.5,3.6,5,Active
+P0036,Blue River Field Services,South Bend,IN,46601,41.724725,-85.746691,CCTV Inspection | Vactor / Jet Vac,21,12,57.1,4.1,23,Active
+P0037,Keystone Contracting,Lafayette,IN,47901,40.78238,-86.805098,Catch Basin Repair | Pipe Lining | Stormwater Inspection,9,3,33.3,4.7,24,Pending
+P0038,Northstar Restoration,Toledo,OH,43604,42.082812,-83.479265,Pond Maintenance,7,0,0.0,3.6,38,Active
+P0039,Great Lakes Restoration 39,Evansville,IN,47708,38.454226,-87.628546,Pond Maintenance,23,11,47.8,4.9,7,Expiring Soon
+P0040,Red Oak Drainage Group,Cincinnati,OH,45202,38.852576,-84.306135,Pond Maintenance | Stormwater Inspection,5,1,20.0,4.2,18,Active
+P0041,Blue River Environmental 41,Dayton,OH,45402,39.853421,-83.741206,Erosion Control | Pipe Lining,12,6,50.0,4.5,1,Expiring Soon
+P0042,Great Lakes Waterworks 42,Grand Rapids,MI,49503,42.949759,-85.937934,CCTV Inspection | Vactor / Jet Vac,8,0,0.0,3.8,16,Active
+P0043,Northstar Restoration 43,Louisville,KY,40202,38.509153,-86.182946,Pipe Lining,5,2,40.0,4.0,16,Active
+P0044,Keystone Contracting 44,Fort Wayne,IN,46802,41.360072,-84.967203,Catch Basin Repair,7,7,100.0,4.1,12,Expiring Soon
+P0045,Northstar Utility Services,Chicago,IL,60601,41.81542,-87.552201,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,17,9,52.9,3.7,20,Active
+P0046,Prairie Waterworks 46,Cleveland,OH,44113,41.563204,-80.888808,CCTV Inspection | Catch Basin Repair | Pipe Lining,7,9,128.6,3.8,16,Pending
+P0047,Clearwater Site Solutions,Springfield,IL,62701,39.371936,-89.839126,Emergency Callout | Pipe Lining | Stormwater Inspection,11,6,54.5,4.7,11,Active
+P0048,Premier Contracting,Cincinnati,OH,45202,38.919939,-85.199132,CCTV Inspection,12,6,50.0,3.7,14,Active
+P0049,Red Oak Restoration,Lexington,KY,40507,37.795079,-84.533864,Emergency Callout | Vactor / Jet Vac,12,1,8.3,3.5,43,Active
+P0050,Blue River Infrastructure,Dayton,OH,45402,39.398422,-84.542571,Emergency Callout | Erosion Control,14,13,92.9,5.0,7,Active
+P0051,Heartland Waterworks,Detroit,MI,48226,42.22829,-82.936502,Catch Basin Repair | Pipe Lining | Vactor / Jet Vac,17,14,82.4,3.8,17,Active
+P0052,Red Oak Site Solutions 52,Grand Rapids,MI,49503,43.181055,-85.528975,CCTV Inspection | Erosion Control,14,6,42.9,4.1,4,Active
+P0053,Great Lakes Drainage Group,Evansville,IN,47708,37.904911,-87.656344,Pipe Lining | Stormwater Inspection,16,9,56.2,4.0,25,Active
+P0054,Premier Waterworks,Cincinnati,OH,45202,39.38666,-84.462263,Pipe Lining | Pond Maintenance,22,13,59.1,4.2,20,Active
+P0055,Evergreen Drainage Group,Indianapolis,IN,46204,39.566364,-86.056822,Erosion Control,18,9,50.0,5.0,37,Active
+P0056,Ironwood Field Services,Cincinnati,OH,45202,39.211137,-84.756178,Erosion Control | Pipe Lining | Vactor / Jet Vac,13,3,23.1,4.7,22,Active
+P0057,Midwest Infrastructure,Milwaukee,WI,53202,43.17334,-88.464768,Catch Basin Repair | Erosion Control | Pipe Lining,11,8,72.7,4.4,7,Active
+P0058,Clearwater Field Services,Fort Wayne,IN,46802,40.947273,-85.05501,CCTV Inspection | Catch Basin Repair,17,9,52.9,4.1,18,Active
+P0059,Central Waterworks,Lexington,KY,40507,37.970046,-84.45488,Vactor / Jet Vac,7,8,114.3,3.0,17,Active
+P0060,Central Environmental,Detroit,MI,48226,42.380823,-82.951082,CCTV Inspection | Catch Basin Repair,8,3,37.5,3.4,23,Active
+P0061,Northstar Contracting,Grand Rapids,MI,49503,43.447058,-86.158936,Emergency Callout | Erosion Control | Pond Maintenance | Stormwater Inspection,17,11,64.7,4.1,19,Active
+P0062,Great Lakes Field Services,Terre Haute,IN,47807,39.171888,-87.520926,Catch Basin Repair | Stormwater Inspection,24,17,70.8,4.5,39,Expiring Soon
+P0063,Central Site Solutions,Detroit,MI,48226,42.661075,-82.905292,CCTV Inspection,13,12,92.3,4.4,29,Active
+P0064,Keystone Restoration,Cleveland,OH,44113,41.41626,-81.673105,Pipe Lining,11,3,27.3,4.6,7,Expiring Soon
+P0065,Heartland Waterworks 65,Cincinnati,OH,45202,39.322158,-84.573008,Catch Basin Repair | Emergency Callout,5,6,120.0,4.5,40,Pending
+P0066,Keystone Municipal Services 66,Lexington,KY,40507,38.245217,-85.006753,Catch Basin Repair | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,19,10,52.6,3.7,14,Inactive
+P0067,Prairie Waterworks 67,Toledo,OH,43604,42.075944,-83.333889,Erosion Control | Pond Maintenance | Stormwater Inspection,21,9,42.9,3.7,20,Pending
+P0068,Clearwater Drainage Group,Springfield,IL,62701,39.441063,-89.864865,Catch Basin Repair | Vactor / Jet Vac,14,8,57.1,4.7,26,Expiring Soon
+P0069,Keystone Utility Services,Peoria,IL,61602,40.052039,-89.491603,Catch Basin Repair | Erosion Control | Pond Maintenance | Vactor / Jet Vac,4,2,50.0,4.4,37,Active
+P0070,Crossroads Field Services,Lafayette,IN,47901,39.838993,-87.064453,Pond Maintenance,16,10,62.5,3.5,36,Active
+P0071,Midwest Waterworks 71,Cleveland,OH,44113,41.60244,-81.423493,Stormwater Inspection,12,4,33.3,4.6,31,Active
+P0072,Blue River Contracting 72,Grand Rapids,MI,49503,43.028606,-85.593092,CCTV Inspection,24,14,58.3,3.8,18,Expiring Soon
+P0073,Clearwater Environmental,Columbus,OH,43215,39.918494,-82.876114,CCTV Inspection | Catch Basin Repair,19,13,68.4,3.7,18,Active
+P0074,Central Drainage Group,Cincinnati,OH,45202,39.517908,-84.749948,Pipe Lining | Pond Maintenance | Stormwater Inspection,7,1,14.3,4.3,29,Inactive
+P0075,Northstar Environmental,Evansville,IN,47708,37.974799,-87.145833,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,6,5,83.3,4.6,26,Expiring Soon
+P0076,Heartland Drainage Group 76,Columbus,OH,43215,40.612943,-83.064452,CCTV Inspection | Pond Maintenance | Stormwater Inspection,5,0,0.0,4.9,14,Active
+P0077,Heartland Restoration 77,Louisville,KY,40202,38.282907,-85.339444,Stormwater Inspection | Vactor / Jet Vac,17,4,23.5,3.6,2,Active
+P0078,Red Oak Field Services 78,Louisville,KY,40202,38.030342,-85.617816,CCTV Inspection | Erosion Control | Stormwater Inspection,20,12,60.0,4.3,4,Active
+P0079,Prairie Field Services,Grand Rapids,MI,49503,42.316571,-85.650707,Pipe Lining | Pond Maintenance,11,4,36.4,4.4,27,Active
+P0080,Clearwater Field Services 80,Peoria,IL,61602,40.732308,-89.345757,Pipe Lining | Stormwater Inspection,4,2,50.0,4.4,12,Pending
+P0081,Central Site Solutions 81,Terre Haute,IN,47807,39.416409,-87.350932,Pipe Lining | Pond Maintenance,12,9,75.0,4.0,25,Expiring Soon
+P0082,Ironwood Environmental,Dayton,OH,45402,39.684465,-84.229213,Catch Basin Repair | Vactor / Jet Vac,11,8,72.7,3.3,5,Active
+P0083,Great Lakes Field Services 83,Columbus,OH,43215,39.546188,-83.745557,Catch Basin Repair | Emergency Callout,4,0,0.0,4.5,16,Active
+P0084,Great Lakes Site Solutions,Lexington,KY,40507,38.095981,-84.15515,Catch Basin Repair | Erosion Control,21,15,71.4,4.2,34,Active
+P0085,Midwest Contracting 85,Grand Rapids,MI,49503,42.989195,-85.936067,Pipe Lining | Pond Maintenance | Stormwater Inspection,11,4,36.4,3.5,10,Expiring Soon
+P0086,Heartland Restoration 86,Cleveland,OH,44113,41.399055,-81.437253,CCTV Inspection | Catch Basin Repair | Pipe Lining | Stormwater Inspection,12,11,91.7,3.6,24,Inactive
+P0087,Northstar Drainage Group,Detroit,MI,48226,42.040048,-82.893897,CCTV Inspection | Catch Basin Repair | Pipe Lining | Stormwater Inspection,9,4,44.4,3.4,30,Active
+P0088,Summit Drainage Group 88,Grand Rapids,MI,49503,42.794,-85.838948,Vactor / Jet Vac,21,8,38.1,3.9,24,Expiring Soon
+P0089,Red Oak Field Services 89,Lafayette,IN,47901,40.363712,-86.770128,Vactor / Jet Vac,22,13,59.1,4.8,16,Active
+P0090,Midwest Utility Services,Peoria,IL,61602,40.28008,-89.247489,Catch Basin Repair | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,6,2,33.3,4.7,24,Active
+P0091,Red Oak Environmental,Lansing,MI,48933,42.695781,-84.443892,Pond Maintenance,6,7,116.7,5.0,20,Active
+P0092,Northstar Municipal Services,Chicago,IL,60601,41.922953,-87.285403,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,16,6,37.5,4.3,19,Pending
+P0093,Crossroads Municipal Services,Toledo,OH,43604,41.740694,-83.804578,Emergency Callout | Pond Maintenance | Stormwater Inspection | Vactor / Jet Vac,23,7,30.4,3.3,7,Inactive
+P0094,Red Oak Site Solutions 94,Cincinnati,OH,45202,38.974671,-84.605821,CCTV Inspection,9,10,111.1,4.7,9,Active
+P0095,Summit Environmental,South Bend,IN,46601,41.773758,-86.382265,Emergency Callout | Pipe Lining,5,1,20.0,4.3,26,Active
+P0096,Great Lakes Field Services 96,Toledo,OH,43604,41.557808,-83.197468,Catch Basin Repair,12,3,25.0,4.2,48,Active
+P0097,Premier Infrastructure,Cincinnati,OH,45202,39.165562,-84.053371,Emergency Callout | Pipe Lining,8,4,50.0,4.5,19,Active
+P0098,Northstar Municipal Services 98,Toledo,OH,43604,41.605086,-83.787334,Catch Basin Repair | Emergency Callout | Pipe Lining | Vactor / Jet Vac,16,10,62.5,3.8,27,Active
+P0099,Central Infrastructure 99,Springfield,IL,62701,40.08558,-89.53281,Erosion Control | Stormwater Inspection,14,6,42.9,4.4,16,Active
+P0100,Clearwater Municipal Services 100,South Bend,IN,46601,41.938353,-86.83805,Stormwater Inspection | Vactor / Jet Vac,12,5,41.7,3.3,3,Active
+P0101,Central Restoration,Terre Haute,IN,47807,39.848581,-87.127441,CCTV Inspection | Pond Maintenance,22,9,40.9,3.5,1,Active
+P0102,Heartland Field Services,Springfield,IL,62701,39.629521,-88.875567,Erosion Control | Pipe Lining,7,5,71.4,3.9,25,Active
+P0103,Evergreen Waterworks,Springfield,IL,62701,39.344632,-89.745243,Catch Basin Repair | Emergency Callout | Vactor / Jet Vac,14,7,50.0,4.2,28,Active
+P0104,Crossroads Restoration,Lexington,KY,40507,38.137101,-84.289836,Erosion Control | Pond Maintenance | Vactor / Jet Vac,18,7,38.9,4.6,37,Active
+P0105,Midwest Municipal Services,Detroit,MI,48226,42.059758,-83.329863,Emergency Callout | Stormwater Inspection | Vactor / Jet Vac,10,9,90.0,4.1,35,Active
+P0106,Central Field Services,Toledo,OH,43604,41.52889,-83.072285,Catch Basin Repair,9,5,55.6,4.3,37,Active
+P0107,Premier Infrastructure 107,Grand Rapids,MI,49503,42.862104,-85.969259,CCTV Inspection,18,8,44.4,4.4,2,Active
+P0108,Central Drainage Group 108,Lafayette,IN,47901,40.595192,-87.047707,Catch Basin Repair | Pond Maintenance,19,13,68.4,3.1,11,Active
+P0109,Summit Waterworks 109,Grand Rapids,MI,49503,42.491189,-85.932493,Pipe Lining,6,4,66.7,4.1,17,Expiring Soon
+P0110,Midwest Restoration,Chicago,IL,60601,41.833528,-87.564716,Vactor / Jet Vac,13,4,30.8,4.5,27,Pending
+P0111,Red Oak Field Services 111,Lansing,MI,48933,42.840311,-84.377409,Catch Basin Repair | Emergency Callout | Pond Maintenance,15,9,60.0,5.0,19,Active
+P0112,Premier Field Services,Grand Rapids,MI,49503,42.877417,-85.909229,CCTV Inspection | Catch Basin Repair | Erosion Control | Pond Maintenance,16,5,31.2,3.6,10,Pending
+P0113,Blue River Contracting 113,Chicago,IL,60601,41.858309,-87.522826,Catch Basin Repair | Erosion Control | Stormwater Inspection,24,13,54.2,3.9,29,Active
+P0114,Summit Restoration,Fort Wayne,IN,46802,41.286336,-85.190487,Catch Basin Repair | Erosion Control | Stormwater Inspection | Vactor / Jet Vac,7,1,14.3,4.4,22,Pending
+P0115,Great Lakes Utility Services,Indianapolis,IN,46204,39.362924,-86.179854,Pipe Lining | Vactor / Jet Vac,19,11,57.9,3.8,22,Active
+P0116,Red Oak Infrastructure,Lexington,KY,40507,37.63325,-84.07612,Erosion Control | Pipe Lining | Stormwater Inspection,19,14,73.7,4.1,23,Active
+P0117,Clearwater Drainage Group 117,South Bend,IN,46601,41.001622,-86.622031,CCTV Inspection | Catch Basin Repair | Erosion Control | Vactor / Jet Vac,18,9,50.0,3.7,27,Expiring Soon
+P0118,Blue River Contracting 118,Indianapolis,IN,46204,40.327643,-86.534617,Pipe Lining | Pond Maintenance | Stormwater Inspection,17,6,35.3,4.3,37,Active
+P0119,Northstar Utility Services 119,Chicago,IL,60601,41.535835,-87.550108,CCTV Inspection,23,18,78.3,3.5,5,Active
+P0120,Central Municipal Services,Columbus,OH,43215,39.84259,-83.165388,Emergency Callout,24,15,62.5,4.3,1,Active
+P0121,Keystone Field Services,Indianapolis,IN,46204,39.912715,-86.342912,Catch Basin Repair | Pipe Lining | Vactor / Jet Vac,15,12,80.0,3.9,12,Active
+P0122,Great Lakes Drainage Group 122,Chicago,IL,60601,42.029617,-87.385664,CCTV Inspection | Pond Maintenance,16,10,62.5,3.4,25,Active
+P0123,Northstar Contracting 123,Lexington,KY,40507,37.750994,-84.428412,Pond Maintenance | Vactor / Jet Vac,16,4,25.0,4.4,11,Active
+P0124,Keystone Municipal Services 124,Fort Wayne,IN,46802,40.720162,-84.910978,CCTV Inspection | Pond Maintenance | Stormwater Inspection,23,13,56.5,3.9,35,Active
+P0125,Northstar Drainage Group 125,Cincinnati,OH,45202,38.979717,-84.501726,Erosion Control | Pipe Lining,7,4,57.1,3.9,25,Active
+P0126,Blue River Municipal Services,Peoria,IL,61602,40.544233,-89.720724,Pipe Lining | Vactor / Jet Vac,13,11,84.6,3.7,1,Expiring Soon
+P0127,Clearwater Utility Services,Terre Haute,IN,47807,39.917762,-86.598115,Erosion Control | Pond Maintenance | Stormwater Inspection,12,5,41.7,3.3,16,Active
+P0128,Prairie Drainage Group,Springfield,IL,62701,39.701558,-89.710876,Erosion Control | Stormwater Inspection | Vactor / Jet Vac,18,6,33.3,4.5,25,Active
+P0129,Crossroads Waterworks,Columbus,OH,43215,39.542766,-82.775057,Catch Basin Repair | Erosion Control | Stormwater Inspection | Vactor / Jet Vac,12,12,100.0,4.3,16,Active
+P0130,Red Oak Drainage Group 130,Louisville,KY,40202,38.212939,-85.561618,Erosion Control | Vactor / Jet Vac,11,0,0.0,4.3,15,Active
+P0131,Midwest Municipal Services 131,Grand Rapids,MI,49503,43.480791,-85.723835,CCTV Inspection,24,18,75.0,3.7,26,Pending
+P0132,Red Oak Waterworks,Toledo,OH,43604,41.742232,-83.815995,Vactor / Jet Vac,5,3,60.0,4.7,16,Inactive
+P0133,Heartland Site Solutions,Evansville,IN,47708,37.49785,-87.57672,Catch Basin Repair | Pipe Lining | Stormwater Inspection,15,5,33.3,4.0,19,Active
+P0134,Keystone Waterworks,Lafayette,IN,47901,39.939117,-87.392311,Emergency Callout | Pond Maintenance,17,10,58.8,4.0,1,Active
+P0135,Clearwater Field Services 135,Louisville,KY,40202,38.472456,-85.671342,Catch Basin Repair | Stormwater Inspection,15,6,40.0,3.6,29,Inactive
+P0136,Ironwood Contracting,Louisville,KY,40202,38.350518,-84.996067,Pond Maintenance,10,6,60.0,4.4,18,Inactive
+P0137,Heartland Site Solutions 137,Peoria,IL,61602,40.922297,-89.388973,Emergency Callout | Vactor / Jet Vac,14,11,78.6,4.0,15,Inactive
+P0138,Clearwater Infrastructure,Lansing,MI,48933,42.598351,-84.302443,CCTV Inspection | Catch Basin Repair | Pond Maintenance,11,10,90.9,4.0,15,Expiring Soon
+P0139,Blue River Drainage Group 139,Milwaukee,WI,53202,43.126842,-87.985144,CCTV Inspection | Pipe Lining | Pond Maintenance,12,9,75.0,3.2,10,Active
+P0140,Summit Environmental 140,Indianapolis,IN,46204,39.549323,-86.900614,Catch Basin Repair | Pond Maintenance,14,4,28.6,3.8,17,Active
+P0141,Summit Waterworks 141,Fort Wayne,IN,46802,41.39093,-85.217819,CCTV Inspection | Catch Basin Repair,18,6,33.3,4.2,31,Active
+P0142,Central Restoration 142,Evansville,IN,47708,37.698332,-87.862484,Vactor / Jet Vac,20,12,60.0,4.1,27,Active
+P0143,Blue River Field Services 143,Indianapolis,IN,46204,39.764579,-85.933568,Erosion Control | Stormwater Inspection | Vactor / Jet Vac,19,7,36.8,4.2,17,Active
+P0144,Midwest Municipal Services 144,South Bend,IN,46601,41.335951,-86.752313,Pipe Lining,12,8,66.7,4.0,8,Active
+P0145,Great Lakes Contracting,Grand Rapids,MI,49503,42.93647,-85.307134,Catch Basin Repair | Pond Maintenance,20,4,20.0,3.5,9,Active
+P0146,Crossroads Restoration 146,Evansville,IN,47708,38.38073,-87.480672,Catch Basin Repair | Emergency Callout | Stormwater Inspection,11,8,72.7,3.7,7,Active
+P0147,Premier Waterworks 147,Peoria,IL,61602,40.818988,-89.570352,Catch Basin Repair | Erosion Control | Pipe Lining,12,8,66.7,4.1,23,Inactive
+P0148,Heartland Infrastructure,Springfield,IL,62701,39.825973,-89.401214,CCTV Inspection | Catch Basin Repair | Vactor / Jet Vac,15,10,66.7,3.5,1,Active
+P0149,Ironwood Restoration,Lansing,MI,48933,43.012989,-84.175428,CCTV Inspection | Catch Basin Repair,15,5,33.3,3.4,21,Pending
+P0150,Evergreen Municipal Services,Fort Wayne,IN,46802,41.339935,-84.56417,CCTV Inspection | Pond Maintenance,20,12,60.0,4.0,10,Active
+P0151,Clearwater Infrastructure 151,Springfield,IL,62701,39.784906,-89.745865,Erosion Control | Vactor / Jet Vac,12,3,25.0,5.0,39,Active
+P0152,Crossroads Restoration 152,Chicago,IL,60601,42.196194,-87.924472,Erosion Control | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,4,4,100.0,4.5,24,Active
+P0153,Keystone Contracting 153,Toledo,OH,43604,42.002706,-83.334581,Pipe Lining | Stormwater Inspection,8,6,75.0,4.5,23,Active
+P0154,Summit Environmental 154,South Bend,IN,46601,41.176989,-86.225241,Catch Basin Repair,16,7,43.8,3.6,38,Active
+P0155,Midwest Drainage Group,Terre Haute,IN,47807,39.950819,-86.978949,CCTV Inspection | Emergency Callout | Vactor / Jet Vac,9,5,55.6,4.8,20,Active
+P0156,Evergreen Field Services 156,South Bend,IN,46601,41.733183,-86.601911,Emergency Callout | Pond Maintenance,18,11,61.1,4.2,5,Active
+P0157,Heartland Contracting,Detroit,MI,48226,42.317065,-83.071313,Erosion Control | Pond Maintenance,22,17,77.3,4.6,20,Active
+P0158,Blue River Site Solutions,Toledo,OH,43604,41.72246,-83.523752,Emergency Callout | Vactor / Jet Vac,10,4,40.0,3.7,18,Inactive
+P0159,Prairie Drainage Group 159,Lafayette,IN,47901,40.207792,-87.275401,CCTV Inspection,4,3,75.0,4.4,1,Expiring Soon
+P0160,Summit Waterworks 160,Terre Haute,IN,47807,39.432348,-87.095276,Catch Basin Repair | Pond Maintenance,21,14,66.7,4.7,20,Active
+P0161,Premier Environmental,Fort Wayne,IN,46802,40.842687,-85.486184,CCTV Inspection | Stormwater Inspection,14,8,57.1,4.4,34,Active
+P0162,Great Lakes Waterworks 162,Lexington,KY,40507,38.348594,-84.546013,Stormwater Inspection,4,0,0.0,4.1,22,Active
+P0163,Central Contracting,Milwaukee,WI,53202,42.982317,-88.091426,CCTV Inspection,11,6,54.5,4.0,13,Active
+P0164,Heartland Waterworks 164,Detroit,MI,48226,42.418607,-83.174438,CCTV Inspection | Erosion Control | Pipe Lining,9,5,55.6,4.3,7,Active
+P0165,Ironwood Restoration 165,Evansville,IN,47708,37.836852,-87.111011,Erosion Control,15,4,26.7,3.2,1,Active
+P0166,Evergreen Site Solutions,Lafayette,IN,47901,40.424851,-86.865406,Pipe Lining,24,12,50.0,4.7,1,Active
+P0167,Central Municipal Services 167,Springfield,IL,62701,39.892561,-89.15044,Emergency Callout | Erosion Control | Pond Maintenance,24,9,37.5,4.0,11,Active
+P0168,Summit Field Services,Cleveland,OH,44113,41.248883,-81.798804,Emergency Callout,24,17,70.8,5.0,16,Expiring Soon
+P0169,Blue River Contracting 169,Lansing,MI,48933,43.265917,-84.544116,Catch Basin Repair | Pond Maintenance,18,15,83.3,4.2,21,Active
+P0170,Heartland Infrastructure 170,Toledo,OH,43604,41.755133,-82.520667,Catch Basin Repair | Stormwater Inspection,22,14,63.6,3.9,30,Inactive
+P0171,Central Municipal Services 171,Fort Wayne,IN,46802,40.977987,-85.29612,Erosion Control | Pond Maintenance,19,13,68.4,4.2,23,Active
+P0172,Central Infrastructure 172,Fort Wayne,IN,46802,41.083216,-85.031693,Emergency Callout | Erosion Control | Vactor / Jet Vac,20,12,60.0,3.3,27,Active
+P0173,Central Restoration 173,Peoria,IL,61602,40.418635,-90.050536,Emergency Callout | Pipe Lining,15,8,53.3,4.2,12,Active
+P0174,Red Oak Municipal Services,Cleveland,OH,44113,41.731989,-82.123896,Erosion Control,6,2,33.3,3.9,19,Active
+P0175,Evergreen Drainage Group 175,Lexington,KY,40507,38.118682,-84.826226,Emergency Callout | Pipe Lining | Vactor / Jet Vac,22,14,63.6,4.2,1,Pending
+P0176,Red Oak Waterworks 176,Toledo,OH,43604,41.104394,-83.541842,CCTV Inspection,13,6,46.2,4.2,19,Active
+P0177,Crossroads Utility Services,Cleveland,OH,44113,41.562457,-81.391152,CCTV Inspection | Erosion Control,17,6,35.3,3.7,7,Active
+P0178,Evergreen Utility Services,Louisville,KY,40202,38.333597,-85.360117,CCTV Inspection | Catch Basin Repair | Erosion Control | Stormwater Inspection,11,4,36.4,3.1,1,Active
+P0179,Crossroads Infrastructure 179,Toledo,OH,43604,41.41955,-83.716373,Erosion Control | Vactor / Jet Vac,14,6,42.9,4.2,16,Active
+P0180,Summit Utility Services,Lexington,KY,40507,38.334415,-84.720026,Pipe Lining,18,7,38.9,4.4,3,Active
+P0181,Central Municipal Services 181,Columbus,OH,43215,40.070314,-82.965983,Emergency Callout,11,5,45.5,4.9,13,Active
+P0182,Keystone Site Solutions,Springfield,IL,62701,40.358583,-89.722238,Catch Basin Repair | Emergency Callout,13,3,23.1,4.2,8,Active
+P0183,Summit Site Solutions,Chicago,IL,60601,41.667608,-87.502749,Emergency Callout | Pipe Lining | Stormwater Inspection,5,4,80.0,3.9,30,Pending
+P0184,Keystone Infrastructure 184,Grand Rapids,MI,49503,43.287502,-85.208483,CCTV Inspection | Pipe Lining | Vactor / Jet Vac,9,6,66.7,4.8,1,Active
+P0185,Summit Waterworks 185,Detroit,MI,48226,42.242386,-83.323242,Catch Basin Repair,18,10,55.6,3.9,18,Inactive
+P0186,Blue River Waterworks,Chicago,IL,60601,42.405109,-87.68411,Catch Basin Repair | Emergency Callout,6,4,66.7,4.1,20,Active
+P0187,Keystone Infrastructure 187,Cleveland,OH,44113,41.500985,-81.550936,CCTV Inspection | Erosion Control | Stormwater Inspection,8,7,87.5,4.9,23,Active
+P0188,Great Lakes Utility Services 188,Springfield,IL,62701,39.946773,-90.018377,Catch Basin Repair | Emergency Callout | Pond Maintenance,4,1,25.0,4.6,29,Active
+P0189,Crossroads Utility Services 189,Cincinnati,OH,45202,39.162351,-84.228354,Stormwater Inspection | Vactor / Jet Vac,13,8,61.5,4.7,23,Active
+P0190,Clearwater Waterworks,Fort Wayne,IN,46802,40.979704,-85.031931,Emergency Callout | Vactor / Jet Vac,7,0,0.0,4.4,1,Active
+P0191,Red Oak Restoration 191,Indianapolis,IN,46204,39.28583,-86.013534,Emergency Callout | Pipe Lining,17,10,58.8,3.7,12,Active
+P0192,Northstar Waterworks,Columbus,OH,43215,40.344951,-83.15369,CCTV Inspection,20,17,85.0,4.2,24,Active
+P0193,Ironwood Restoration 193,Detroit,MI,48226,42.784125,-83.003871,Catch Basin Repair | Stormwater Inspection | Vactor / Jet Vac,5,0,0.0,4.2,19,Inactive
+P0194,Great Lakes Environmental,Dayton,OH,45402,39.376772,-84.273466,CCTV Inspection | Pipe Lining,11,3,27.3,4.6,20,Expiring Soon
+P0195,Summit Environmental 195,Cleveland,OH,44113,41.420117,-81.728378,Erosion Control | Stormwater Inspection,24,13,54.2,4.5,9,Pending
+P0196,Great Lakes Field Services 196,Peoria,IL,61602,40.401955,-89.235503,Pipe Lining | Vactor / Jet Vac,18,8,44.4,3.6,24,Active
+P0197,Prairie Site Solutions,Fort Wayne,IN,46802,41.209044,-85.629229,Erosion Control | Pipe Lining | Pond Maintenance,16,9,56.2,4.5,24,Active
+P0198,Prairie Site Solutions 198,Fort Wayne,IN,46802,41.256255,-85.588766,Vactor / Jet Vac,24,14,58.3,4.1,14,Active
+P0199,Premier Waterworks 199,Louisville,KY,40202,38.496456,-85.285132,CCTV Inspection | Pipe Lining | Stormwater Inspection,19,15,78.9,4.8,18,Active
+P0200,Evergreen Infrastructure,Detroit,MI,48226,42.430162,-82.800417,CCTV Inspection | Catch Basin Repair | Pond Maintenance,9,5,55.6,4.3,29,Active
+P0201,Heartland Contracting 201,Evansville,IN,47708,37.955001,-87.804472,Catch Basin Repair | Pond Maintenance,23,11,47.8,4.5,20,Active
+P0202,Midwest Field Services,Peoria,IL,61602,40.788859,-89.374575,Erosion Control,23,11,47.8,4.5,24,Active
+P0203,Heartland Waterworks 203,Fort Wayne,IN,46802,40.733552,-84.677862,Pipe Lining | Vactor / Jet Vac,8,2,25.0,3.5,8,Active
+P0204,Blue River Utility Services,Peoria,IL,61602,40.407707,-89.572305,Erosion Control,15,7,46.7,4.0,26,Inactive
+P0205,Northstar Utility Services 205,Fort Wayne,IN,46802,41.174465,-85.038265,Erosion Control | Pipe Lining,18,11,61.1,4.5,1,Active
+P0206,Midwest Waterworks 206,Detroit,MI,48226,42.229357,-83.743467,CCTV Inspection | Pond Maintenance,7,3,42.9,4.2,31,Expiring Soon
+P0207,Ironwood Waterworks,Springfield,IL,62701,40.114238,-89.585212,CCTV Inspection | Pipe Lining | Stormwater Inspection,18,8,44.4,4.4,14,Inactive
+P0208,Great Lakes Field Services 208,Toledo,OH,43604,41.65241,-83.222336,Pipe Lining,6,1,16.7,4.6,27,Active
+P0209,Heartland Contracting 209,Peoria,IL,61602,40.426258,-89.277354,CCTV Inspection | Pond Maintenance,21,13,61.9,4.2,11,Pending
+P0210,Great Lakes Utility Services 210,Terre Haute,IN,47807,39.226122,-87.585952,CCTV Inspection | Catch Basin Repair | Vactor / Jet Vac,8,6,75.0,3.8,24,Expiring Soon
+P0211,Midwest Restoration 211,Indianapolis,IN,46204,39.420708,-86.223402,Emergency Callout | Stormwater Inspection,21,11,52.4,5.0,4,Active
+P0212,Heartland Drainage Group 212,South Bend,IN,46601,42.088564,-86.20405,Emergency Callout | Pond Maintenance,17,10,58.8,4.3,24,Pending
+P0213,Summit Contracting 213,South Bend,IN,46601,41.633368,-85.786704,Catch Basin Repair | Emergency Callout,20,9,45.0,4.7,12,Active
+P0214,Red Oak Municipal Services 214,Grand Rapids,MI,49503,42.946529,-86.011128,Pipe Lining,17,10,58.8,4.9,19,Pending
+P0215,Crossroads Infrastructure 215,Fort Wayne,IN,46802,41.024172,-85.496077,CCTV Inspection | Pond Maintenance,9,4,44.4,3.5,9,Inactive
+P0216,Midwest Restoration 216,Columbus,OH,43215,40.0247,-82.576716,CCTV Inspection | Emergency Callout | Pipe Lining,24,21,87.5,3.9,35,Active
+P0217,Northstar Restoration 217,Toledo,OH,43604,41.721051,-83.586299,Pipe Lining,22,13,59.1,4.2,21,Active
+P0218,Great Lakes Municipal Services,Milwaukee,WI,53202,42.924567,-88.353895,Stormwater Inspection | Vactor / Jet Vac,4,0,0.0,4.5,16,Active
+P0219,Evergreen Site Solutions 219,Lansing,MI,48933,42.565595,-84.552778,Erosion Control | Pond Maintenance | Stormwater Inspection,4,4,100.0,4.3,12,Pending
+P0220,Evergreen Drainage Group 220,Grand Rapids,MI,49503,43.306762,-85.162761,Pipe Lining | Stormwater Inspection,18,11,61.1,4.6,33,Expiring Soon
+P0221,Central Waterworks 221,Terre Haute,IN,47807,39.783128,-87.217388,Catch Basin Repair | Pipe Lining,23,14,60.9,4.4,7,Active
+P0222,Great Lakes Contracting 222,Cleveland,OH,44113,41.695502,-82.12826,Emergency Callout | Pipe Lining | Pond Maintenance | Stormwater Inspection,21,9,42.9,4.8,29,Active
+P0223,Heartland Drainage Group 223,Peoria,IL,61602,41.110072,-89.675936,Pipe Lining | Vactor / Jet Vac,5,0,0.0,4.1,21,Inactive
+P0224,Premier Site Solutions 224,Milwaukee,WI,53202,43.061017,-87.543722,Emergency Callout | Pipe Lining | Pond Maintenance | Stormwater Inspection,14,6,42.9,4.4,9,Expiring Soon
+P0225,Ironwood Field Services 225,Springfield,IL,62701,39.907789,-89.649105,Catch Basin Repair | Pond Maintenance,4,0,0.0,4.1,17,Inactive
+P0226,Central Site Solutions 226,Detroit,MI,48226,42.255757,-82.478971,Erosion Control,5,2,40.0,4.1,1,Active
+P0227,Keystone Field Services 227,Milwaukee,WI,53202,42.788522,-87.990683,Vactor / Jet Vac,7,1,14.3,4.8,18,Active
+P0228,Great Lakes Contracting 228,Dayton,OH,45402,40.119664,-84.171855,Catch Basin Repair | Erosion Control | Vactor / Jet Vac,5,2,40.0,4.2,20,Active
+P0229,Ironwood Drainage Group,Louisville,KY,40202,38.733963,-86.500775,Emergency Callout,21,5,23.8,4.0,20,Pending
+P0230,Red Oak Municipal Services 230,Milwaukee,WI,53202,43.232129,-87.755112,CCTV Inspection,16,7,43.8,4.7,31,Expiring Soon
+P0231,Ironwood Contracting 231,Cleveland,OH,44113,41.550836,-81.38635,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,16,9,56.2,3.9,27,Active
+P0232,Summit Contracting 232,Fort Wayne,IN,46802,41.110272,-85.138971,CCTV Inspection | Emergency Callout | Pond Maintenance,20,15,75.0,3.1,4,Active
+P0233,Midwest Utility Services 233,Milwaukee,WI,53202,42.70652,-88.022743,Emergency Callout | Pond Maintenance,14,6,42.9,3.5,9,Pending
+P0234,Central Municipal Services 234,Grand Rapids,MI,49503,42.722364,-84.881724,Vactor / Jet Vac,15,13,86.7,4.0,16,Active
+P0235,Northstar Drainage Group 235,Chicago,IL,60601,41.556323,-88.240402,Catch Basin Repair | Pond Maintenance | Vactor / Jet Vac,12,6,50.0,3.8,19,Active
+P0236,Northstar Field Services 236,Fort Wayne,IN,46802,40.631242,-85.383232,Stormwater Inspection,8,4,50.0,4.4,24,Active
+P0237,Clearwater Environmental 237,Evansville,IN,47708,37.601863,-87.297601,CCTV Inspection | Stormwater Inspection,17,6,35.3,4.5,19,Active
+P0238,Keystone Field Services 238,Milwaukee,WI,53202,42.653512,-88.007683,CCTV Inspection | Erosion Control | Vactor / Jet Vac,20,12,60.0,4.5,18,Active
+P0239,Ironwood Waterworks 239,Springfield,IL,62701,40.210598,-89.327697,Catch Basin Repair | Pipe Lining,21,10,47.6,4.5,41,Active
+P0240,Northstar Field Services 240,Dayton,OH,45402,40.307836,-84.58456,Catch Basin Repair,12,3,25.0,4.9,8,Active
+P0241,Prairie Drainage Group 241,Toledo,OH,43604,41.282488,-83.693482,Catch Basin Repair | Emergency Callout | Pipe Lining,15,9,60.0,4.2,12,Inactive
+P0242,Evergreen Infrastructure 242,Dayton,OH,45402,39.570121,-84.419548,Catch Basin Repair | Stormwater Inspection,15,5,33.3,5.0,23,Active
+P0243,Great Lakes Infrastructure,Toledo,OH,43604,41.901093,-83.694405,Emergency Callout | Erosion Control,12,6,50.0,3.9,1,Active
+P0244,Evergreen Restoration,Grand Rapids,MI,49503,42.577557,-86.247498,Pipe Lining | Vactor / Jet Vac,23,5,21.7,3.7,34,Active
+P0245,Red Oak Restoration 245,Fort Wayne,IN,46802,41.066858,-84.72642,Catch Basin Repair,5,3,60.0,4.6,10,Active
+P0246,Heartland Utility Services 246,Springfield,IL,62701,39.928406,-89.416911,Pipe Lining,17,7,41.2,4.5,26,Active
+P0247,Prairie Drainage Group 247,Cincinnati,OH,45202,38.949225,-84.871286,Stormwater Inspection | Vactor / Jet Vac,6,0,0.0,4.2,23,Active
+P0248,Keystone Utility Services 248,Fort Wayne,IN,46802,40.857393,-85.130893,Pipe Lining | Vactor / Jet Vac,16,10,62.5,4.5,37,Active
+P0249,Keystone Environmental,Toledo,OH,43604,42.010355,-83.858313,CCTV Inspection,14,12,85.7,4.0,31,Active
+P0250,Ironwood Field Services 250,Grand Rapids,MI,49503,42.982436,-85.799988,Pipe Lining | Pond Maintenance | Stormwater Inspection,18,4,22.2,4.1,2,Active
+P0251,Midwest Utility Services 251,Evansville,IN,47708,38.242444,-87.085726,CCTV Inspection | Erosion Control | Pond Maintenance,4,0,0.0,4.3,12,Expiring Soon
+P0252,Red Oak Site Solutions 252,Lansing,MI,48933,42.556524,-84.307662,Stormwater Inspection,17,9,52.9,5.0,14,Active
+P0253,Red Oak Infrastructure 253,Lexington,KY,40507,38.320414,-84.472528,Pipe Lining,19,12,63.2,4.0,19,Inactive
+P0254,Evergreen Waterworks 254,Indianapolis,IN,46204,39.73606,-86.425638,Pond Maintenance,14,9,64.3,4.5,26,Active
+P0255,Blue River Drainage Group 255,Lansing,MI,48933,43.16285,-84.09171,Catch Basin Repair | Vactor / Jet Vac,7,2,28.6,4.4,13,Active
+P0256,Red Oak Restoration 256,Lexington,KY,40507,38.047139,-84.69562,Erosion Control | Pipe Lining | Pond Maintenance | Vactor / Jet Vac,15,13,86.7,4.4,17,Active
+P0257,Central Utility Services,Lafayette,IN,47901,40.750913,-87.569897,Catch Basin Repair | Erosion Control,21,5,23.8,4.6,20,Expiring Soon
+P0258,Prairie Site Solutions 258,Cincinnati,OH,45202,39.173225,-84.936447,CCTV Inspection | Pond Maintenance,18,9,50.0,5.0,29,Expiring Soon
+P0259,Keystone Municipal Services 259,South Bend,IN,46601,41.723918,-86.392497,Catch Basin Repair,22,10,45.5,3.2,22,Active
+P0260,Crossroads Restoration 260,Cleveland,OH,44113,41.736035,-82.198598,Catch Basin Repair | Erosion Control,22,10,45.5,3.7,9,Active
+P0261,Central Environmental 261,Detroit,MI,48226,42.346375,-83.712809,Catch Basin Repair | Stormwater Inspection,22,13,59.1,4.5,17,Active
+P0262,Great Lakes Environmental 262,Toledo,OH,43604,40.958202,-83.856754,Erosion Control | Vactor / Jet Vac,10,9,90.0,2.9,16,Active
+P0263,Midwest Infrastructure 263,Chicago,IL,60601,41.5477,-87.372338,Emergency Callout | Vactor / Jet Vac,19,8,42.1,4.4,26,Active
+P0264,Prairie Utility Services 264,Terre Haute,IN,47807,39.980843,-87.478841,Catch Basin Repair | Pipe Lining | Stormwater Inspection,18,11,61.1,3.5,33,Active
+P0265,Summit Contracting 265,Grand Rapids,MI,49503,42.750458,-85.847541,Stormwater Inspection,20,10,50.0,3.5,22,Expiring Soon
+P0266,Crossroads Environmental 266,Columbus,OH,43215,40.232091,-82.905061,Catch Basin Repair | Erosion Control | Pond Maintenance,21,6,28.6,4.1,28,Active
+P0267,Clearwater Field Services 267,Columbus,OH,43215,39.435363,-83.342725,CCTV Inspection | Pond Maintenance,7,6,85.7,4.3,24,Expiring Soon
+P0268,Northstar Environmental 268,Chicago,IL,60601,42.398759,-87.479863,CCTV Inspection,7,5,71.4,5.0,17,Active
+P0269,Red Oak Environmental 269,Milwaukee,WI,53202,42.815493,-87.769605,Vactor / Jet Vac,16,10,62.5,4.0,8,Active
+P0270,Prairie Environmental,Cincinnati,OH,45202,39.749856,-84.40741,Pond Maintenance,11,3,27.3,4.6,18,Active
+P0271,Prairie Contracting,Milwaukee,WI,53202,42.968093,-87.726573,Pipe Lining,20,7,35.0,4.4,41,Active
+P0272,Blue River Restoration,Dayton,OH,45402,39.88943,-84.311988,Catch Basin Repair | Erosion Control | Pipe Lining | Stormwater Inspection,21,10,47.6,4.0,17,Active
+P0273,Red Oak Waterworks 273,Louisville,KY,40202,38.146914,-85.46528,Catch Basin Repair | Emergency Callout | Erosion Control,17,4,23.5,4.6,15,Active
+P0274,Prairie Restoration,Terre Haute,IN,47807,39.572245,-87.774536,Catch Basin Repair | Pipe Lining,8,8,100.0,4.8,30,Pending
+P0275,Premier Waterworks 275,Grand Rapids,MI,49503,42.539269,-85.402781,Catch Basin Repair | Pipe Lining,11,7,63.6,3.5,19,Active
+P0276,Keystone Field Services 276,South Bend,IN,46601,41.77847,-86.074056,CCTV Inspection | Erosion Control | Pond Maintenance,10,6,60.0,4.3,36,Active
+P0277,Northstar Environmental 277,Milwaukee,WI,53202,43.382189,-88.823958,Catch Basin Repair | Pond Maintenance | Stormwater Inspection,21,10,47.6,4.1,1,Active
+P0278,Evergreen Environmental,Cleveland,OH,44113,41.525671,-81.294798,Catch Basin Repair,7,0,0.0,4.4,9,Pending
+P0279,Great Lakes Site Solutions 279,Milwaukee,WI,53202,42.850765,-87.433734,Catch Basin Repair | Pond Maintenance,14,6,42.9,4.4,1,Active
+P0280,Red Oak Contracting,Grand Rapids,MI,49503,43.484849,-85.475251,Erosion Control | Pond Maintenance,19,9,47.4,4.5,4,Active
+P0281,Prairie Contracting 281,Springfield,IL,62701,40.112809,-89.753775,Catch Basin Repair | Erosion Control | Pipe Lining,5,2,40.0,4.0,13,Pending
+P0282,Blue River Drainage Group 282,Lafayette,IN,47901,40.611208,-86.79341,Pipe Lining | Stormwater Inspection,8,6,75.0,4.2,25,Active
+P0283,Northstar Site Solutions 283,Lexington,KY,40507,37.923322,-83.790186,Erosion Control | Pipe Lining,19,5,26.3,4.8,35,Active
+P0284,Summit Utility Services 284,Louisville,KY,40202,38.014096,-85.045132,CCTV Inspection | Emergency Callout | Pond Maintenance,24,16,66.7,4.6,20,Active
+P0285,Crossroads Environmental 285,South Bend,IN,46601,41.615577,-86.319011,CCTV Inspection | Erosion Control | Stormwater Inspection,11,7,63.6,4.8,21,Expiring Soon
+P0286,Clearwater Restoration,Indianapolis,IN,46204,39.513196,-85.894283,Pond Maintenance | Vactor / Jet Vac,24,15,62.5,4.5,28,Pending
+P0287,Blue River Environmental 287,Springfield,IL,62701,39.70584,-89.947377,Stormwater Inspection | Vactor / Jet Vac,4,0,0.0,3.5,22,Expiring Soon
+P0288,Evergreen Environmental 288,Grand Rapids,MI,49503,42.940034,-85.808896,Emergency Callout | Stormwater Inspection,9,0,0.0,3.6,32,Pending
+P0289,Summit Site Solutions 289,Detroit,MI,48226,42.145305,-82.930411,Pond Maintenance,15,4,26.7,4.8,18,Expiring Soon
+P0290,Midwest Waterworks 290,South Bend,IN,46601,41.757611,-85.50775,Catch Basin Repair | Erosion Control,11,10,90.9,4.1,13,Expiring Soon
+P0291,Red Oak Environmental 291,South Bend,IN,46601,41.585247,-86.088833,Stormwater Inspection,16,8,50.0,4.0,36,Active
+P0292,Great Lakes Utility Services 292,Indianapolis,IN,46204,39.736421,-85.422231,Stormwater Inspection,24,13,54.2,5.0,23,Active
+P0293,Keystone Restoration 293,Evansville,IN,47708,38.241229,-87.802976,CCTV Inspection | Catch Basin Repair | Erosion Control,22,9,40.9,4.4,30,Active
+P0294,Red Oak Drainage Group 294,South Bend,IN,46601,41.687672,-86.663646,CCTV Inspection | Pipe Lining | Vactor / Jet Vac,4,0,0.0,3.6,1,Active
+P0295,Keystone Infrastructure 295,Lexington,KY,40507,38.071256,-84.143686,Catch Basin Repair,22,12,54.5,3.2,17,Active
+P0296,Midwest Waterworks 296,Grand Rapids,MI,49503,42.917816,-84.99738,Erosion Control | Pipe Lining | Stormwater Inspection,6,0,0.0,4.0,38,Expiring Soon
+P0297,Blue River Infrastructure 297,Louisville,KY,40202,38.378694,-85.57824,CCTV Inspection | Pipe Lining,23,12,52.2,4.3,28,Inactive
+P0298,Prairie Contracting 298,Lexington,KY,40507,37.813944,-84.222721,Pond Maintenance,18,5,27.8,4.3,21,Active
+P0299,Premier Waterworks 299,Grand Rapids,MI,49503,42.790838,-85.675359,Stormwater Inspection,6,1,16.7,3.7,16,Active
+P0300,Great Lakes Infrastructure 300,Columbus,OH,43215,39.652083,-82.895505,Pipe Lining,16,5,31.2,4.5,7,Expiring Soon
