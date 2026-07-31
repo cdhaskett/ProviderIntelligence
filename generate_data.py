@@ -42,6 +42,31 @@ CITY_CENTERS = [
     ("Milwaukee", "WI", 43.0389, -87.9065),
 ]
 
+# Representative downtown ZIP for each market, used to give every synthetic
+# record a plausible ZIP and to power ZIP-code search.
+CITY_ZIPS = {
+    "Indianapolis": "46204",
+    "Fort Wayne": "46802",
+    "South Bend": "46601",
+    "Evansville": "47708",
+    "Lafayette": "47901",
+    "Terre Haute": "47807",
+    "Cincinnati": "45202",
+    "Columbus": "43215",
+    "Dayton": "45402",
+    "Toledo": "43604",
+    "Cleveland": "44113",
+    "Louisville": "40202",
+    "Lexington": "40507",
+    "Chicago": "60601",
+    "Peoria": "61602",
+    "Springfield": "62701",
+    "Detroit": "48226",
+    "Grand Rapids": "49503",
+    "Lansing": "48933",
+    "Milwaukee": "53202",
+}
+
 SERVICES = [
     "Vactor / Jet Vac",
     "CCTV Inspection",
@@ -128,6 +153,7 @@ def make_providers(rng: np.random.Generator, count: int = 300) -> pd.DataFrame:
                 "provider_name": name,
                 "city": city,
                 "state": state,
+                "zip_code": CITY_ZIPS[city],
                 "latitude": round(float(latitude), 6),
                 "longitude": round(float(longitude), 6),
                 "services": " | ".join(provider_services),
@@ -157,6 +183,7 @@ def make_clients(rng: np.random.Generator, count: int = 75) -> pd.DataFrame:
                 "site_name": f"{city} Site {location_number:02d}",
                 "city": city,
                 "state": state,
+                "zip_code": CITY_ZIPS[city],
                 "latitude": round(float(base_lat + rng.normal(0, 0.18)), 6),
                 "longitude": round(float(base_lon + rng.normal(0, 0.20)), 6),
                 "priority_level": random.choices(
@@ -249,8 +276,40 @@ def make_jobs(
     return pd.DataFrame(rows)
 
 
+def make_provider_services(providers: pd.DataFrame) -> pd.DataFrame:
+    """Normalize the pipe-delimited `services` column into a bridge table.
+
+    One row per (provider_id, service) pair — a proper many-to-many link that
+    is far easier to join and filter than substring-matching a packed string.
+    """
+    rows: list[dict] = []
+    for _, provider in providers.iterrows():
+        for service in str(provider["services"]).split(" | "):
+            service = service.strip()
+            if service:
+                rows.append(
+                    {"provider_id": provider["provider_id"], "service": service}
+                )
+    return pd.DataFrame(rows).drop_duplicates().reset_index(drop=True)
+
+
+def make_zip_centroids() -> pd.DataFrame:
+    """Small ZIP -> lat/lon lookup for the markets in this dataset."""
+    rows = [
+        {
+            "zip_code": CITY_ZIPS[city],
+            "city": city,
+            "state": state,
+            "latitude": lat,
+            "longitude": lon,
+        }
+        for city, state, lat, lon in CITY_CENTERS
+    ]
+    return pd.DataFrame(rows).drop_duplicates("zip_code").reset_index(drop=True)
+
+
 def generate_data(output_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
-    """Generate and save all three synthetic tables."""
+    """Generate and save all synthetic tables."""
     random.seed(SEED)
     rng = np.random.default_rng(SEED)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -258,10 +317,14 @@ def generate_data(output_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame, pd.Data
     providers = make_providers(rng)
     clients = make_clients(rng)
     jobs = make_jobs(rng, providers, clients)
+    provider_services = make_provider_services(providers)
+    zip_centroids = make_zip_centroids()
 
     providers.to_csv(output_dir / "providers.csv", index=False)
     clients.to_csv(output_dir / "client_locations.csv", index=False)
     jobs.to_csv(output_dir / "completed_jobs.csv", index=False)
+    provider_services.to_csv(output_dir / "provider_services.csv", index=False)
+    zip_centroids.to_csv(output_dir / "zip_centroids.csv", index=False)
     return providers, clients, jobs
 
 
@@ -279,6 +342,7 @@ def main() -> None:
     print(f"Created {len(providers):,} providers")
     print(f"Created {len(clients):,} client locations")
     print(f"Created {len(jobs):,} jobs")
+    print("Also wrote provider_services.csv (bridge table) and zip_centroids.csv")
     print(f"Saved files to {args.output.resolve()}")
 
 

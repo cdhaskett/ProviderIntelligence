@@ -43,3 +43,22 @@
 | days_to_complete | Duration |
 | quality_score | Synthetic quality rating |
 | job_status | Completed, cancelled, or rework required |
+
+## provider_services.csv  (bridge table)
+
+| Field | Description |
+|---|---|
+| provider_id | Provider offering the service |
+| service | One service the provider offers (one row per pair) |
+
+## zip_centroids.csv
+
+| Field | Description |
+|---|---|
+| zip_code | Representative ZIP for a market |
+| city / state | Market the ZIP represents |
+| latitude / longitude | Centroid used as a ZIP-search origin |
+
+*Note:* `providers.csv` and `client_locations.csv` now also include a `zip_code`
+column. `data_raw/providers_dirty.csv` is a deliberately messy copy used by the
+cleaning notebook.
