@@ -1,0 +1,76 @@
+location_id,client_name,site_name,city,state,latitude,longitude,priority_level,required_service
+L001,Juniper Health,Cleveland Site 01,Cleveland,OH,41.397367,-81.819321,High,Vactor / Jet Vac
+L002,Brightway Pharmacy,Toledo Site 02,Toledo,OH,41.891326,-83.471842,Medium,Pond Maintenance
+L003,Harbor Foods,Evansville Site 03,Evansville,IN,37.933488,-87.471356,High,Stormwater Inspection
+L004,Unity Manufacturing,Peoria Site 04,Peoria,IL,40.314305,-89.597627,Medium,Stormwater Inspection
+L005,Northline Retail,Evansville Site 05,Evansville,IN,38.331153,-87.544631,High,CCTV Inspection
+L006,Metro Office Partners,Milwaukee Site 06,Milwaukee,WI,43.051124,-87.796874,Standard,Stormwater Inspection
+L007,Atlas Distribution,Indianapolis Site 07,Indianapolis,IN,39.929609,-86.557593,Medium,CCTV Inspection
+L008,Maple Street Markets,Grand Rapids Site 08,Grand Rapids,MI,42.660581,-85.626042,Medium,Pipe Lining
+L009,Harbor Foods,Lexington Site 09,Lexington,KY,37.911922,-84.241295,High,Pond Maintenance
+L010,Brightway Pharmacy,Dayton Site 10,Dayton,OH,39.702169,-84.578506,High,Pipe Lining
+L011,Atlas Distribution,Chicago Site 11,Chicago,IL,41.649857,-88.179735,Medium,Emergency Callout
+L012,Juniper Health,South Bend Site 12,South Bend,IN,41.634257,-86.289677,Medium,Catch Basin Repair
+L013,Metro Office Partners,Springfield Site 13,Springfield,IL,39.705297,-89.434324,Medium,Emergency Callout
+L014,Harbor Foods,Evansville Site 14,Evansville,IN,38.187334,-87.605178,Medium,Stormwater Inspection
+L015,Metro Office Partners,Cleveland Site 15,Cleveland,OH,41.115055,-81.570944,Medium,Erosion Control
+L016,Juniper Health,Peoria Site 16,Peoria,IL,40.793565,-89.527122,Medium,Pipe Lining
+L017,Juniper Health,Toledo Site 17,Toledo,OH,41.829466,-83.770866,Medium,Catch Basin Repair
+L018,Juniper Health,Springfield Site 18,Springfield,IL,40.143276,-89.841986,High,Stormwater Inspection
+L019,Atlas Distribution,Cleveland Site 19,Cleveland,OH,41.63416,-82.03187,Standard,Emergency Callout
+L020,Maple Street Markets,Lansing Site 20,Lansing,MI,42.565052,-84.252226,Medium,Pond Maintenance
+L021,Juniper Health,Lexington Site 21,Lexington,KY,37.993638,-84.335715,High,Catch Basin Repair
+L022,Unity Manufacturing,Lansing Site 22,Lansing,MI,42.775152,-84.576492,High,Vactor / Jet Vac
+L023,Oak & Main Retail,Peoria Site 23,Peoria,IL,40.939093,-89.636332,High,Pond Maintenance
+L024,Pioneer Storage,South Bend Site 24,South Bend,IN,41.355867,-86.412648,Standard,Pipe Lining
+L025,Maple Street Markets,Toledo Site 25,Toledo,OH,41.752015,-83.458798,Medium,Pipe Lining
+L026,Pioneer Storage,Chicago Site 26,Chicago,IL,41.59603,-87.774669,High,Emergency Callout
+L027,Pioneer Storage,Lansing Site 27,Lansing,MI,42.62779,-84.628594,Medium,Stormwater Inspection
+L028,Northline Retail,Grand Rapids Site 28,Grand Rapids,MI,42.715736,-85.793774,Standard,Erosion Control
+L029,Metro Office Partners,Grand Rapids Site 29,Grand Rapids,MI,42.83225,-85.513793,Medium,CCTV Inspection
+L030,Maple Street Markets,Evansville Site 30,Evansville,IN,38.117242,-87.600262,Standard,Erosion Control
+L031,Riverside Hospitality,Terre Haute Site 31,Terre Haute,IN,39.396133,-87.385915,Medium,Stormwater Inspection
+L032,Pioneer Storage,Cleveland Site 32,Cleveland,OH,41.352316,-81.923766,High,CCTV Inspection
+L033,Maple Street Markets,Dayton Site 33,Dayton,OH,39.58966,-84.318563,Medium,Catch Basin Repair
+L034,Juniper Health,Peoria Site 34,Peoria,IL,40.484175,-89.556588,Medium,Pipe Lining
+L035,Northline Retail,Louisville Site 35,Louisville,KY,38.384049,-86.07592,Medium,Pond Maintenance
+L036,Civic Square Properties,Chicago Site 36,Chicago,IL,41.882623,-87.673787,High,Pipe Lining
+L037,Atlas Distribution,Louisville Site 37,Louisville,KY,38.314172,-85.761088,Medium,Catch Basin Repair
+L038,Brightway Pharmacy,Detroit Site 38,Detroit,MI,42.069752,-83.298278,Medium,CCTV Inspection
+L039,Oak & Main Retail,Peoria Site 39,Peoria,IL,40.698896,-89.383244,Standard,Erosion Control
+L040,Atlas Distribution,South Bend Site 40,South Bend,IN,41.277846,-86.182855,High,CCTV Inspection
+L041,Juniper Health,Indianapolis Site 41,Indianapolis,IN,39.982532,-86.188705,Medium,Pipe Lining
+L042,Unity Manufacturing,Columbus Site 42,Columbus,OH,40.060236,-83.139414,High,Pipe Lining
+L043,Unity Manufacturing,Cleveland Site 43,Cleveland,OH,41.477814,-82.018583,Medium,Emergency Callout
+L044,Pioneer Storage,Columbus Site 44,Columbus,OH,39.539218,-82.810247,Medium,Pipe Lining
+L045,Pioneer Storage,Chicago Site 45,Chicago,IL,41.700801,-87.720906,High,Catch Basin Repair
+L046,Metro Office Partners,Peoria Site 46,Peoria,IL,40.44404,-89.870994,Medium,Vactor / Jet Vac
+L047,Maple Street Markets,Cincinnati Site 47,Cincinnati,OH,39.071809,-84.657915,Medium,CCTV Inspection
+L048,Civic Square Properties,Lansing Site 48,Lansing,MI,42.800535,-84.464992,Standard,Pipe Lining
+L049,Juniper Health,Louisville Site 49,Louisville,KY,38.310453,-85.71078,High,CCTV Inspection
+L050,Riverside Hospitality,Dayton Site 50,Dayton,OH,40.042898,-84.405119,Standard,Erosion Control
+L051,Pioneer Storage,Milwaukee Site 51,Milwaukee,WI,43.029012,-87.679962,Medium,CCTV Inspection
+L052,Juniper Health,Louisville Site 52,Louisville,KY,38.480317,-86.042853,Standard,Pipe Lining
+L053,Metro Office Partners,Toledo Site 53,Toledo,OH,41.596576,-83.266276,Medium,Pipe Lining
+L054,Civic Square Properties,Cleveland Site 54,Cleveland,OH,41.590754,-81.655347,Medium,CCTV Inspection
+L055,Juniper Health,Terre Haute Site 55,Terre Haute,IN,39.427517,-87.49066,Standard,Stormwater Inspection
+L056,Metro Office Partners,Chicago Site 56,Chicago,IL,41.929979,-87.680275,High,Stormwater Inspection
+L057,Harbor Foods,Chicago Site 57,Chicago,IL,41.870436,-87.61408,Medium,Pipe Lining
+L058,Harbor Foods,Grand Rapids Site 58,Grand Rapids,MI,42.841347,-85.561674,Medium,Pipe Lining
+L059,Juniper Health,Terre Haute Site 59,Terre Haute,IN,39.991264,-87.769297,Standard,Vactor / Jet Vac
+L060,Northline Retail,Louisville Site 60,Louisville,KY,38.311022,-85.910538,Medium,Catch Basin Repair
+L061,Unity Manufacturing,Lexington Site 61,Lexington,KY,38.144532,-84.494389,Medium,Emergency Callout
+L062,Riverside Hospitality,Chicago Site 62,Chicago,IL,42.015234,-87.394699,Medium,Emergency Callout
+L063,Harbor Foods,Springfield Site 63,Springfield,IL,39.816336,-89.42369,High,Vactor / Jet Vac
+L064,Atlas Distribution,Columbus Site 64,Columbus,OH,39.539226,-82.68071,High,Catch Basin Repair
+L065,Atlas Distribution,Grand Rapids Site 65,Grand Rapids,MI,43.030911,-85.452531,High,Emergency Callout
+L066,Oak & Main Retail,Lansing Site 66,Lansing,MI,42.512922,-84.721654,Standard,Emergency Callout
+L067,Unity Manufacturing,Grand Rapids Site 67,Grand Rapids,MI,42.989669,-85.671508,High,CCTV Inspection
+L068,Unity Manufacturing,Dayton Site 68,Dayton,OH,39.809852,-83.974697,Standard,Erosion Control
+L069,Northline Retail,Grand Rapids Site 69,Grand Rapids,MI,42.64566,-85.473336,Standard,Emergency Callout
+L070,Maple Street Markets,Grand Rapids Site 70,Grand Rapids,MI,42.964891,-85.708856,Standard,CCTV Inspection
+L071,Atlas Distribution,Columbus Site 71,Columbus,OH,39.696399,-82.89819,Standard,Vactor / Jet Vac
+L072,Atlas Distribution,Peoria Site 72,Peoria,IL,40.259061,-89.459321,Medium,CCTV Inspection
+L073,Civic Square Properties,Peoria Site 73,Peoria,IL,40.425021,-89.578308,Standard,Catch Basin Repair
+L074,Oak & Main Retail,Cincinnati Site 74,Cincinnati,OH,39.08165,-84.278092,Medium,Erosion Control
+L075,Riverside Hospitality,Milwaukee Site 75,Milwaukee,WI,43.006742,-88.045328,Medium,Pipe Lining
