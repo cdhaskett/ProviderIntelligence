@@ -2,7 +2,7 @@ name: tests
 
 on:
   push:
-    branches: [main, portfolio-polish]
+    branches: [main]
   pull_request:
     branches: [main]
 
@@ -20,6 +20,9 @@ jobs:
 
       - name: Install test dependencies
         run: pip install -r requirements-dev.txt
+
+      - name: Compile-check Python files
+        run: python -m py_compile app.py provider_intel.py
 
       - name: Run tests
         run: python -m pytest -q
