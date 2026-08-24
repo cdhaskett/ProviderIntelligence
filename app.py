@@ -50,11 +50,16 @@ st.caption(
     "A portfolio demonstration using fully synthetic provider, client, and job data."
 )
 
-finder_tab, gaps_tab, performance_tab = st.tabs(
-    ["Provider Finder", "Coverage Gaps", "Performance Overview"]
+view = st.radio(
+    "Analysis view",
+    ["Provider Finder", "Coverage Gaps", "Performance Overview"],
+    horizontal=True,
+    label_visibility="collapsed",
 )
 
-with finder_tab:
+st.divider()
+
+if view == "Provider Finder":
     st.subheader("Find qualified providers")
 
     with st.sidebar:
@@ -248,12 +253,19 @@ with finder_tab:
         disabled=matches.empty,
     )
 
-with gaps_tab:
+elif view == "Coverage Gaps":
+    with st.sidebar:
+        st.header("Coverage Settings")
+        gap_service = st.selectbox("Service to evaluate", service_options, key="gap_service")
+        gap_radius = st.slider(
+            "Coverage standard (miles)", 25, 200, 75, step=25, key="gap_radius"
+        )
+
     st.subheader("Identify coverage gaps")
-    gap_radius = st.slider(
-        "Coverage standard (miles)", 25, 200, 75, step=25, key="gap_radius"
+    st.caption(
+        "Classify client locations by the number of active or expiring providers "
+        "available within the selected coverage standard."
     )
-    gap_service = st.selectbox("Service to evaluate", service_options, key="gap_service")
 
     gap_provider_ids = provider_services.loc[
         provider_services["service"] == gap_service, "provider_id"
@@ -303,8 +315,11 @@ with gaps_tab:
     st.plotly_chart(gap_chart, use_container_width=True)
     st.dataframe(gaps, use_container_width=True, hide_index=True)
 
-with performance_tab:
+else:
     st.subheader("Historical provider performance")
+    st.caption(
+        "Review completed-job volume, value, quality, response time, and completion speed."
+    )
 
     completed = jobs[jobs["job_status"] == "Completed"].copy()
     provider_summary = (
