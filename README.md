@@ -110,7 +110,7 @@ Install the development dependencies and run:
 
 ```bash
 pip install -r requirements-dev.txt
-pytest -q
+python -m pytest -q
 ```
 
 The same test suite also runs automatically through GitHub Actions.
