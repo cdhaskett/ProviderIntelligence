@@ -2,6 +2,8 @@
 
 A portfolio project that turns field-service provider data into an interactive decision-support tool. Built with **Python, Streamlit, pandas, and Plotly**, the app helps users find qualified providers, identify geographic coverage gaps, and evaluate historical provider performance.
 
+**Live app:** https://providerintelligenceproject.streamlit.app/
+
 All providers, clients, jobs, locations, and performance metrics are **fully synthetic**. No employer, customer, or confidential operational data is included.
 
 ## Business problem
