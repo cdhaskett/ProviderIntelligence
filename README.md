@@ -100,22 +100,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Regenerate the data
-
-```bash
-python generate_data.py     # writes all 5 CSVs into data/
-```
-
-## Deploy to Streamlit Community Cloud
-
-1. Push this repo to GitHub (files must include `app.py`, `provider_intel.py`,
-   `requirements.txt`, and the `data/` folder).
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. **Create app → Deploy from GitHub**, set **Main file path** to `app.py`, deploy.
-4. You'll get a permanent URL like `cdhaskett-providerintelligence.streamlit.app`.
-
-To capture true full-UI screenshots and a GIF, open the deployed app and use a
-screen-recorder / screenshot tool on each tab, then drop them into `assets/`.
 
 ## A note on drive-time
 
@@ -124,15 +108,7 @@ road-circuity factor (~1.3) and divided by an average speed. For true routing,
 swap `estimate_drive_time_minutes()` in `provider_intel.py` for a call to a
 routing service (OSRM, OpenRouteService, or Google Directions).
 
-## Portfolio talking points
 
-> Built an interactive Python app (Streamlit, pandas, Plotly) that searches
-> field-service providers by ZIP or client site, estimates drive time, and ranks
-> recommendations by rating, capacity, proximity, and responsiveness.
-
-> Modeled a normalized provider-service bridge table, engineered a deliberately
-> dirty dataset with a documented pandas cleaning pipeline, and unit-tested the
-> distance and scoring logic with pytest.
 
 ## Data
 
