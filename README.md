@@ -6,6 +6,23 @@ A portfolio project that turns field-service provider data into an interactive d
 
 All providers, clients, jobs, locations, and performance metrics are **fully synthetic**. No employer, customer, or confidential operational data is included.
 
+## App preview
+
+### Provider Finder
+Search by client location or ZIP code, apply service and qualification filters, and rank nearby providers using an explainable recommendation score.
+
+![Provider Finder view](assets/provider_finder.png)
+
+### Coverage Gaps
+Compare client locations against a selected service and coverage standard to identify adequate, thin, and critical provider coverage.
+
+![Coverage Gaps view](assets/coverage_gaps.png)
+
+### Performance Overview
+Review completed-job volume, value, quality, response time, and provider-level historical performance.
+
+![Performance Overview view](assets/performance_overview.png)
+
 ## Business problem
 
 Field-service teams often need to answer several questions at once:
@@ -78,6 +95,10 @@ ProviderIntelligence/
 ├── DATA_DICTIONARY.md             # Field definitions
 ├── requirements.txt               # Runtime dependencies
 ├── requirements-dev.txt           # Test/notebook dependencies
+├── assets/
+│   ├── provider_finder.png
+│   ├── coverage_gaps.png
+│   └── performance_overview.png
 ├── data/
 │   ├── providers.csv
 │   ├── client_locations.csv
