@@ -1,5 +1,7 @@
 # Data Dictionary
 
+All tables in this project contain **synthetic portfolio data**. No real employer, customer, provider, work-order, or performance information is included.
+
 ## providers.csv
 
 | Field | Description |
@@ -7,8 +9,9 @@
 | provider_id | Synthetic provider identifier |
 | provider_name | Fictional provider company name |
 | city / state | Approximate operating market |
+| zip_code | Representative ZIP for the provider market |
 | latitude / longitude | Synthetic point near the listed market |
-| services | Pipe-delimited service capabilities |
+| services | Pipe-delimited service capabilities in the source table |
 | capacity | Estimated concurrent job capacity |
 | active_jobs | Current synthetic workload |
 | utilization_pct | Active jobs divided by capacity |
@@ -24,6 +27,7 @@
 | client_name | Fictional customer organization |
 | site_name | Fictional site label |
 | city / state | Approximate client market |
+| zip_code | Representative ZIP for the client market |
 | latitude / longitude | Synthetic client location |
 | priority_level | High, medium, or standard |
 | required_service | Default service need |
@@ -44,12 +48,14 @@
 | quality_score | Synthetic quality rating |
 | job_status | Completed, cancelled, or rework required |
 
-## provider_services.csv  (bridge table)
+## provider_services.csv (bridge table)
 
 | Field | Description |
 |---|---|
 | provider_id | Provider offering the service |
-| service | One service the provider offers (one row per pair) |
+| service | One service the provider offers; one row per provider/service pair |
+
+This table is the normalized many-to-many representation used by the application for service filtering.
 
 ## zip_centroids.csv
 
@@ -59,6 +65,10 @@
 | city / state | Market the ZIP represents |
 | latitude / longitude | Centroid used as a ZIP-search origin |
 
-*Note:* `providers.csv` and `client_locations.csv` now also include a `zip_code`
-column. `data_raw/providers_dirty.csv` is a deliberately messy copy used by the
-cleaning notebook.
+## providers_clean.csv
+
+Analysis-ready provider output produced by the cleaning workflow. It contains the same provider-domain fields after text standardization, numeric repair, ZIP normalization, duplicate removal, and validation.
+
+## Generated raw data
+
+`make_dirty_data.py` creates `data_raw/providers_dirty.csv` locally. The file deliberately introduces realistic data-quality issues for `notebooks/cleaning.ipynb` and is excluded from version control because it is reproducible from the committed synthetic provider data.

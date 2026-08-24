@@ -45,9 +45,12 @@ def dirty(df: pd.DataFrame) -> pd.DataFrame:
             df.at[i, "state"] = df.at[i, "state"].lower()
         elif r < 0.25:
             df.at[i, "state"] = STATE_FULL.get(df.at[i, "state"], df.at[i, "state"])
-        # 4. Mixed service delimiters
+        # 4. Mixed service delimiters. Avoid slash because a real service label
+        # contains one ("Vactor / Jet Vac"), which would make cleanup ambiguous.
         if rng.random() < 0.35 and " | " in str(df.at[i, "services"]):
-            df.at[i, "services"] = str(df.at[i, "services"]).replace(" | ", rng.choice([", ", ",", " / "]))
+            df.at[i, "services"] = str(df.at[i, "services"]).replace(
+                " | ", rng.choice([", ", ",", "; "])
+            )
         # 5. rating as text with units
         if rng.random() < 0.20:
             df.at[i, "rating"] = f"{df.at[i, 'rating']} stars"
